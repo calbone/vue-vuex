@@ -1,0 +1,9659 @@
+{
+  "branches":[
+    {
+      "id": 20,
+      "name": "悟空",
+      "position": "悟天",
+      "in_digital_signage": true,
+      "assignees": [
+        {
+          "id": 20,
+          "name": "悟空",
+          "is_assigned": false
+        },
+        {
+          "id": 19,
+          "name": "フリーザ",
+          "is_assigned": true
+        },
+        {
+          "id": 18,
+          "name": "ssss",
+          "is_assigned": true
+        },
+        {
+          "id": 3,
+          "name": "オーバーライド",
+          "is_assigned": false
+        },
+        {
+          "id": 2,
+          "name": "金沢",
+          "is_assigned": false
+        },
+        {
+          "id": 1,
+          "name": "加賀",
+          "is_assigned": false
+        },
+        {
+          "id": 4,
+          "name": "[test]加賀only",
+          "is_assigned": false
+        },
+        {
+          "id": 5,
+          "name": "[test]金沢only",
+          "is_assigned": false
+        },
+        {
+          "id": 6,
+          "name": "[test]MVNO only",
+          "is_assigned": false
+        },
+        {
+          "id": 7,
+          "name": "[test]OLG only",
+          "is_assigned": false
+        },
+        {
+          "id": 8,
+          "name": "[test]DMP only",
+          "is_assigned": false
+        },
+        {
+          "id": 9,
+          "name": "[test]Yahoo only",
+          "is_assigned": false
+        },
+        {
+          "id": 10,
+          "name": "[test]pachi only",
+          "is_assigned": false
+        },
+        {
+          "id": 11,
+          "name": "[test]ENG only",
+          "is_assigned": false
+        },
+        {
+          "id": 12,
+          "name": "[test]all okay",
+          "is_assigned": false
+        },
+        {
+          "id": 13,
+          "name": "[test]all NG",
+          "is_assigned": false
+        },
+        {
+          "id": 14,
+          "name": "[test]加賀,金沢",
+          "is_assigned": false
+        },
+        {
+          "id": 15,
+          "name": "[test]MVNO, OLG",
+          "is_assigned": false
+        },
+        {
+          "id": 16,
+          "name": "[test]DMP, yahoo",
+          "is_assigned": false
+        },
+        {
+          "id": 17,
+          "name": "[test]pachi,ENG",
+          "is_assigned": false
+        }
+      ],
+      "emailadds": [
+        {
+          "id": 1,
+          "emailadd": "tester01@example.com",
+          "subject": "subject1",
+          "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 01 Lorem ipsum dolor sit amet 01 Lorem ipsum dolor sit amet ---------------------",
+          "is_assigned": false
+        },
+        {
+          "id": 2,
+          "emailadd": "tester02@example.com",
+          "subject": "subject2",
+          "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 02 Lorem ipsum dolor sit amet 02 Lorem ipsum dolor sit amet ---------------------",
+          "is_assigned": false
+        },
+        {
+          "id": 3,
+          "emailadd": "tester03@example.com",
+          "subject": "subject3",
+          "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 03 Lorem ipsum dolor sit amet 03 Lorem ipsum dolor sit amet ---------------------",
+          "is_assigned": false
+        }
+      ],
+      "features": [
+        {
+        "id": 12,
+        "label": "アクセス権限",
+        "is_assigned": false
+        },
+        {
+        "id": 9,
+        "label": "アップロード管理",
+        "is_assigned": false
+        },
+        {
+        "id": 8,
+        "label": "スタッフ管理",
+        "is_assigned": false
+        },
+        {
+        "id": 7,
+        "label": "フォームの作成",
+        "is_assigned": false
+        },
+        {
+        "id": 1,
+        "label": "受信Box",
+        "is_assigned": false
+        },
+        {
+        "id": 6,
+        "label": "受信Box・区分・フィルタリング",
+        "is_assigned": false
+        },
+        {
+        "id": 11,
+        "label": "拠点",
+        "is_assigned": false
+        },
+        {
+        "id": 3,
+        "label": "新規作成",
+        "is_assigned": false
+        },
+        {
+        "id": 2,
+        "label": "本人・年齢確認",
+        "is_assigned": false
+        },
+        {
+        "id": 4,
+        "label": "検索",
+        "is_assigned": false
+        },
+        {
+        "id": 5,
+        "label": "迷惑メールのブロック",
+        "is_assigned": false
+        },
+        {
+        "id": 10,
+        "label": "集計",
+        "is_assigned": false
+        }
+        ],
+        "inboxes": [
+        {
+        "id": 1,
+        "name": "未分類",
+        "is_assigned": false
+        },
+        {
+        "id": 28,
+        "name": "vvvv",
+        "is_assigned": false
+        },
+        {
+        "id": 27,
+        "name": "クリリン",
+        "is_assigned": false
+        },
+        {
+        "id": 3,
+        "name": "金沢",
+        "is_assigned": false
+        },
+        {
+        "id": 2,
+        "name": "加賀",
+        "is_assigned": false
+        },
+        {
+        "id": 5,
+        "name": "オンラインゲーム",
+        "is_assigned": false
+        },
+        {
+        "id": 6,
+        "name": "マーケットプレイス",
+        "is_assigned": false
+        },
+        {
+        "id": 7,
+        "name": "Yahooショップ",
+        "is_assigned": false
+        },
+        {
+        "id": 8,
+        "name": "DMMぱちタウン",
+        "is_assigned": false
+        },
+        {
+        "id": 9,
+        "name": "英文",
+        "is_assigned": false
+        },
+        {
+        "id": 4,
+        "name": "MVNO",
+        "is_assigned": false
+        }
+        ],
+        "teams": [
+          {
+            "id": 56,
+            "name": "ご飯"
+          }
+        ]
+        },
+        {
+        "id": 19,
+        "name": "フリーザ",
+        "position": "ドドリア",
+        "in_digital_signage": true,
+        "assignees": [
+        {
+        "id": 20,
+        "name": "悟空",
+        "is_assigned": false
+        },
+        {
+        "id": 19,
+        "name": "フリーザ",
+        "is_assigned": false
+        },
+        {
+        "id": 18,
+        "name": "ssss",
+        "is_assigned": true
+        },
+        {
+        "id": 3,
+        "name": "オーバーライド",
+        "is_assigned": false
+        },
+        {
+        "id": 2,
+        "name": "金沢",
+        "is_assigned": false
+        },
+        {
+        "id": 1,
+        "name": "加賀",
+        "is_assigned": false
+        },
+        {
+        "id": 4,
+        "name": "[test]加賀only",
+        "is_assigned": false
+        },
+        {
+        "id": 5,
+        "name": "[test]金沢only",
+        "is_assigned": false
+        },
+        {
+        "id": 6,
+        "name": "[test]MVNO only",
+        "is_assigned": false
+        },
+        {
+        "id": 7,
+        "name": "[test]OLG only",
+        "is_assigned": false
+        },
+        {
+        "id": 8,
+        "name": "[test]DMP only",
+        "is_assigned": false
+        },
+        {
+        "id": 9,
+        "name": "[test]Yahoo only",
+        "is_assigned": false
+        },
+        {
+        "id": 10,
+        "name": "[test]pachi only",
+        "is_assigned": false
+        },
+        {
+        "id": 11,
+        "name": "[test]ENG only",
+        "is_assigned": false
+        },
+        {
+        "id": 12,
+        "name": "[test]all okay",
+        "is_assigned": false
+        },
+        {
+        "id": 13,
+        "name": "[test]all NG",
+        "is_assigned": false
+        },
+        {
+        "id": 14,
+        "name": "[test]加賀,金沢",
+        "is_assigned": false
+        },
+        {
+        "id": 15,
+        "name": "[test]MVNO, OLG",
+        "is_assigned": false
+        },
+        {
+        "id": 16,
+        "name": "[test]DMP, yahoo",
+        "is_assigned": false
+        },
+        {
+        "id": 17,
+        "name": "[test]pachi,ENG",
+        "is_assigned": false
+        }
+      ],
+      "emailadds": [
+        {
+        "id": 1,
+        "emailadd": "tester01@example.com",
+        "subject": "subject1",
+        "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 01 Lorem ipsum dolor sit amet 01 Lorem ipsum dolor sit amet ---------------------",
+        "is_assigned": false
+        },
+        {
+        "id": 2,
+        "emailadd": "tester02@example.com",
+        "subject": "subject2",
+        "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 02 Lorem ipsum dolor sit amet 02 Lorem ipsum dolor sit amet ---------------------",
+        "is_assigned": false
+        },
+        {
+        "id": 3,
+        "emailadd": "tester03@example.com",
+        "subject": "subject3",
+        "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 03 Lorem ipsum dolor sit amet 03 Lorem ipsum dolor sit amet ---------------------",
+        "is_assigned": false
+        }
+      ],
+      "features": [
+        {
+        "id": 12,
+        "label": "アクセス権限",
+        "is_assigned": false
+        },
+        {
+        "id": 9,
+        "label": "アップロード管理",
+        "is_assigned": false
+        },
+        {
+        "id": 8,
+        "label": "スタッフ管理",
+        "is_assigned": false
+        },
+        {
+        "id": 7,
+        "label": "フォームの作成",
+        "is_assigned": false
+        },
+        {
+        "id": 1,
+        "label": "受信Box",
+        "is_assigned": false
+        },
+        {
+        "id": 6,
+        "label": "受信Box・区分・フィルタリング",
+        "is_assigned": false
+        },
+        {
+        "id": 11,
+        "label": "拠点",
+        "is_assigned": false
+        },
+        {
+        "id": 3,
+        "label": "新規作成",
+        "is_assigned": false
+        },
+        {
+        "id": 2,
+        "label": "本人・年齢確認",
+        "is_assigned": false
+        },
+        {
+        "id": 4,
+        "label": "検索",
+        "is_assigned": false
+        },
+        {
+        "id": 5,
+        "label": "迷惑メールのブロック",
+        "is_assigned": false
+        },
+        {
+        "id": 10,
+        "label": "集計",
+        "is_assigned": false
+        }
+        ],
+        "inboxes": [
+        {
+        "id": 1,
+        "name": "未分類",
+        "is_assigned": false
+        },
+        {
+        "id": 28,
+        "name": "vvvv",
+        "is_assigned": false
+        },
+        {
+        "id": 27,
+        "name": "クリリン",
+        "is_assigned": false
+        },
+        {
+        "id": 3,
+        "name": "金沢",
+        "is_assigned": false
+        },
+        {
+        "id": 2,
+        "name": "加賀",
+        "is_assigned": false
+        },
+        {
+        "id": 5,
+        "name": "オンラインゲーム",
+        "is_assigned": false
+        },
+        {
+        "id": 6,
+        "name": "マーケットプレイス",
+        "is_assigned": false
+        },
+        {
+        "id": 7,
+        "name": "Yahooショップ",
+        "is_assigned": false
+        },
+        {
+        "id": 8,
+        "name": "DMMぱちタウン",
+        "is_assigned": false
+        },
+        {
+        "id": 9,
+        "name": "英文",
+        "is_assigned": false
+        },
+        {
+        "id": 4,
+        "name": "MVNO",
+        "is_assigned": false
+        }
+      ],
+      "teams": [
+        {
+          "id": 55,
+          "name": "ザーボン"
+        }
+      ]
+    },
+    {
+    "id": 18,
+    "name": "ssss",
+    "position": "",
+    "in_digital_signage": true,
+    "assignees": [
+    {
+    "id": 20,
+    "name": "悟空",
+    "is_assigned": false
+    },
+    {
+    "id": 19,
+    "name": "フリーザ",
+    "is_assigned": false
+    },
+    {
+    "id": 18,
+    "name": "ssss",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "オーバーライド",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "name": "金沢",
+    "is_assigned": false
+    },
+    {
+    "id": 1,
+    "name": "加賀",
+    "is_assigned": false
+    },
+    {
+    "id": 4,
+    "name": "[test]加賀only",
+    "is_assigned": false
+    },
+    {
+    "id": 5,
+    "name": "[test]金沢only",
+    "is_assigned": false
+    },
+    {
+    "id": 6,
+    "name": "[test]MVNO only",
+    "is_assigned": false
+    },
+    {
+    "id": 7,
+    "name": "[test]OLG only",
+    "is_assigned": false
+    },
+    {
+    "id": 8,
+    "name": "[test]DMP only",
+    "is_assigned": false
+    },
+    {
+    "id": 9,
+    "name": "[test]Yahoo only",
+    "is_assigned": false
+    },
+    {
+    "id": 10,
+    "name": "[test]pachi only",
+    "is_assigned": false
+    },
+    {
+    "id": 11,
+    "name": "[test]ENG only",
+    "is_assigned": false
+    },
+    {
+    "id": 12,
+    "name": "[test]all okay",
+    "is_assigned": false
+    },
+    {
+    "id": 13,
+    "name": "[test]all NG",
+    "is_assigned": false
+    },
+    {
+    "id": 14,
+    "name": "[test]加賀,金沢",
+    "is_assigned": false
+    },
+    {
+    "id": 15,
+    "name": "[test]MVNO, OLG",
+    "is_assigned": false
+    },
+    {
+    "id": 16,
+    "name": "[test]DMP, yahoo",
+    "is_assigned": false
+    },
+    {
+    "id": 17,
+    "name": "[test]pachi,ENG",
+    "is_assigned": false
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "subject": "subject1",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 01 Lorem ipsum dolor sit amet 01 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "subject": "subject2",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 02 Lorem ipsum dolor sit amet 02 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "subject": "subject3",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 03 Lorem ipsum dolor sit amet 03 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    }
+    ],
+    "features": [
+    {
+    "id": 12,
+    "label": "アクセス権限",
+    "is_assigned": false
+    },
+    {
+    "id": 9,
+    "label": "アップロード管理",
+    "is_assigned": false
+    },
+    {
+    "id": 8,
+    "label": "スタッフ管理",
+    "is_assigned": false
+    },
+    {
+    "id": 7,
+    "label": "フォームの作成",
+    "is_assigned": false
+    },
+    {
+    "id": 1,
+    "label": "受信Box",
+    "is_assigned": false
+    },
+    {
+    "id": 6,
+    "label": "受信Box・区分・フィルタリング",
+    "is_assigned": false
+    },
+    {
+    "id": 11,
+    "label": "拠点",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "label": "新規作成",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "label": "本人・年齢確認",
+    "is_assigned": false
+    },
+    {
+    "id": 4,
+    "label": "検索",
+    "is_assigned": false
+    },
+    {
+    "id": 5,
+    "label": "迷惑メールのブロック",
+    "is_assigned": false
+    },
+    {
+    "id": 10,
+    "label": "集計",
+    "is_assigned": false
+    }
+    ],
+    "inboxes": [
+    {
+    "id": 1,
+    "name": "未分類",
+    "is_assigned": false
+    },
+    {
+    "id": 28,
+    "name": "vvvv",
+    "is_assigned": false
+    },
+    {
+    "id": 27,
+    "name": "クリリン",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "金沢",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "name": "加賀",
+    "is_assigned": false
+    },
+    {
+    "id": 5,
+    "name": "オンラインゲーム",
+    "is_assigned": false
+    },
+    {
+    "id": 6,
+    "name": "マーケットプレイス",
+    "is_assigned": false
+    },
+    {
+    "id": 7,
+    "name": "Yahooショップ",
+    "is_assigned": false
+    },
+    {
+    "id": 8,
+    "name": "DMMぱちタウン",
+    "is_assigned": false
+    },
+    {
+    "id": 9,
+    "name": "英文",
+    "is_assigned": false
+    },
+    {
+    "id": 4,
+    "name": "MVNO",
+    "is_assigned": false
+    }
+    ],
+    "teams": [
+      {
+        "id": 54,
+        "name": ""
+      }
+    ]
+    },
+    {
+    "id": 3,
+    "name": "オーバーライド",
+    "position": "",
+    "in_digital_signage": true,
+    "assignees": [
+    {
+    "id": 20,
+    "name": "悟空",
+    "is_assigned": false
+    },
+    {
+    "id": 19,
+    "name": "フリーザ",
+    "is_assigned": false
+    },
+    {
+    "id": 18,
+    "name": "ssss",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "オーバーライド",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 1,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "[test]加賀only",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "[test]金沢only",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "[test]MVNO only",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "[test]OLG only",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "[test]DMP only",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "[test]Yahoo only",
+    "is_assigned": true
+    },
+    {
+    "id": 10,
+    "name": "[test]pachi only",
+    "is_assigned": true
+    },
+    {
+    "id": 11,
+    "name": "[test]ENG only",
+    "is_assigned": true
+    },
+    {
+    "id": 12,
+    "name": "[test]all okay",
+    "is_assigned": true
+    },
+    {
+    "id": 13,
+    "name": "[test]all NG",
+    "is_assigned": true
+    },
+    {
+    "id": 14,
+    "name": "[test]加賀,金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 15,
+    "name": "[test]MVNO, OLG",
+    "is_assigned": true
+    },
+    {
+    "id": 16,
+    "name": "[test]DMP, yahoo",
+    "is_assigned": true
+    },
+    {
+    "id": 17,
+    "name": "[test]pachi,ENG",
+    "is_assigned": true
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "subject": "subject1",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 01 Lorem ipsum dolor sit amet 01 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "subject": "subject2",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 02 Lorem ipsum dolor sit amet 02 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "subject": "subject3",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 03 Lorem ipsum dolor sit amet 03 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": true
+    }
+    ],
+    "features": [
+    {
+    "id": 12,
+    "label": "アクセス権限",
+    "is_assigned": false
+    },
+    {
+    "id": 9,
+    "label": "アップロード管理",
+    "is_assigned": false
+    },
+    {
+    "id": 8,
+    "label": "スタッフ管理",
+    "is_assigned": false
+    },
+    {
+    "id": 7,
+    "label": "フォームの作成",
+    "is_assigned": false
+    },
+    {
+    "id": 1,
+    "label": "受信Box",
+    "is_assigned": false
+    },
+    {
+    "id": 6,
+    "label": "受信Box・区分・フィルタリング",
+    "is_assigned": false
+    },
+    {
+    "id": 11,
+    "label": "拠点",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "label": "新規作成",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "label": "本人・年齢確認",
+    "is_assigned": false
+    },
+    {
+    "id": 4,
+    "label": "検索",
+    "is_assigned": false
+    },
+    {
+    "id": 5,
+    "label": "迷惑メールのブロック",
+    "is_assigned": false
+    },
+    {
+    "id": 10,
+    "label": "集計",
+    "is_assigned": false
+    }
+    ],
+    "inboxes": [
+    {
+    "id": 1,
+    "name": "未分類",
+    "is_assigned": true
+    },
+    {
+    "id": 28,
+    "name": "vvvv",
+    "is_assigned": false
+    },
+    {
+    "id": 27,
+    "name": "クリリン",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "オンラインゲーム",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "マーケットプレイス",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "Yahooショップ",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "DMMぱちタウン",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "英文",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "MVNO",
+    "is_assigned": true
+    }
+    ],
+    "teams": [
+    {
+    "id": 7,
+    "name": "昼"
+    },
+    {
+    "id": 8,
+    "name": "夜"
+    },
+    {
+    "id": 9,
+    "name": "深夜"
+    }
+    ]
+    },
+    {
+    "id": 2,
+    "name": "金沢",
+    "position": "",
+    "in_digital_signage": true,
+    "assignees": [
+    {
+    "id": 20,
+    "name": "悟空",
+    "is_assigned": false
+    },
+    {
+    "id": 19,
+    "name": "フリーザ",
+    "is_assigned": false
+    },
+    {
+    "id": 18,
+    "name": "ssss",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "オーバーライド",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 1,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "[test]加賀only",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "[test]金沢only",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "[test]MVNO only",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "[test]OLG only",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "[test]DMP only",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "[test]Yahoo only",
+    "is_assigned": true
+    },
+    {
+    "id": 10,
+    "name": "[test]pachi only",
+    "is_assigned": true
+    },
+    {
+    "id": 11,
+    "name": "[test]ENG only",
+    "is_assigned": true
+    },
+    {
+    "id": 12,
+    "name": "[test]all okay",
+    "is_assigned": true
+    },
+    {
+    "id": 13,
+    "name": "[test]all NG",
+    "is_assigned": true
+    },
+    {
+    "id": 14,
+    "name": "[test]加賀,金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 15,
+    "name": "[test]MVNO, OLG",
+    "is_assigned": true
+    },
+    {
+    "id": 16,
+    "name": "[test]DMP, yahoo",
+    "is_assigned": true
+    },
+    {
+    "id": 17,
+    "name": "[test]pachi,ENG",
+    "is_assigned": true
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "subject": "subject1",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 01 Lorem ipsum dolor sit amet 01 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "subject": "subject2",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 02 Lorem ipsum dolor sit amet 02 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": true
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "subject": "subject3",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 03 Lorem ipsum dolor sit amet 03 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    }
+    ],
+    "features": [
+    {
+    "id": 12,
+    "label": "アクセス権限",
+    "is_assigned": false
+    },
+    {
+    "id": 9,
+    "label": "アップロード管理",
+    "is_assigned": false
+    },
+    {
+    "id": 8,
+    "label": "スタッフ管理",
+    "is_assigned": false
+    },
+    {
+    "id": 7,
+    "label": "フォームの作成",
+    "is_assigned": false
+    },
+    {
+    "id": 1,
+    "label": "受信Box",
+    "is_assigned": false
+    },
+    {
+    "id": 6,
+    "label": "受信Box・区分・フィルタリング",
+    "is_assigned": false
+    },
+    {
+    "id": 11,
+    "label": "拠点",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "label": "新規作成",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "label": "本人・年齢確認",
+    "is_assigned": false
+    },
+    {
+    "id": 4,
+    "label": "検索",
+    "is_assigned": false
+    },
+    {
+    "id": 5,
+    "label": "迷惑メールのブロック",
+    "is_assigned": false
+    },
+    {
+    "id": 10,
+    "label": "集計",
+    "is_assigned": false
+    }
+    ],
+    "inboxes": [
+    {
+    "id": 1,
+    "name": "未分類",
+    "is_assigned": true
+    },
+    {
+    "id": 28,
+    "name": "vvvv",
+    "is_assigned": false
+    },
+    {
+    "id": 27,
+    "name": "クリリン",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "オンラインゲーム",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "マーケットプレイス",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "Yahooショップ",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "DMMぱちタウン",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "英文",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "MVNO",
+    "is_assigned": true
+    }
+    ],
+    "teams": [
+    {
+    "id": 4,
+    "name": "昼"
+    },
+    {
+    "id": 5,
+    "name": "夜"
+    },
+    {
+    "id": 6,
+    "name": "深夜"
+    }
+    ]
+    },
+    {
+    "id": 1,
+    "name": "加賀",
+    "position": "ほほほほ",
+    "in_digital_signage": true,
+    "assignees": [
+    {
+    "id": 20,
+    "name": "悟空",
+    "is_assigned": false
+    },
+    {
+    "id": 19,
+    "name": "フリーザ",
+    "is_assigned": false
+    },
+    {
+    "id": 18,
+    "name": "ssss",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "オーバーライド",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 1,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "[test]加賀only",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "[test]金沢only",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "[test]MVNO only",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "[test]OLG only",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "[test]DMP only",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "[test]Yahoo only",
+    "is_assigned": true
+    },
+    {
+    "id": 10,
+    "name": "[test]pachi only",
+    "is_assigned": true
+    },
+    {
+    "id": 11,
+    "name": "[test]ENG only",
+    "is_assigned": true
+    },
+    {
+    "id": 12,
+    "name": "[test]all okay",
+    "is_assigned": true
+    },
+    {
+    "id": 13,
+    "name": "[test]all NG",
+    "is_assigned": true
+    },
+    {
+    "id": 14,
+    "name": "[test]加賀,金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 15,
+    "name": "[test]MVNO, OLG",
+    "is_assigned": true
+    },
+    {
+    "id": 16,
+    "name": "[test]DMP, yahoo",
+    "is_assigned": true
+    },
+    {
+    "id": 17,
+    "name": "[test]pachi,ENG",
+    "is_assigned": true
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "subject": "subject1",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 01 Lorem ipsum dolor sit amet 01 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "subject": "subject2",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 02 Lorem ipsum dolor sit amet 02 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "subject": "subject3",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 03 Lorem ipsum dolor sit amet 03 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    }
+    ],
+    "features": [
+    {
+    "id": 12,
+    "label": "アクセス権限",
+    "is_assigned": false
+    },
+    {
+    "id": 9,
+    "label": "アップロード管理",
+    "is_assigned": false
+    },
+    {
+    "id": 8,
+    "label": "スタッフ管理",
+    "is_assigned": false
+    },
+    {
+    "id": 7,
+    "label": "フォームの作成",
+    "is_assigned": false
+    },
+    {
+    "id": 1,
+    "label": "受信Box",
+    "is_assigned": false
+    },
+    {
+    "id": 6,
+    "label": "受信Box・区分・フィルタリング",
+    "is_assigned": false
+    },
+    {
+    "id": 11,
+    "label": "拠点",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "label": "新規作成",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "label": "本人・年齢確認",
+    "is_assigned": false
+    },
+    {
+    "id": 4,
+    "label": "検索",
+    "is_assigned": false
+    },
+    {
+    "id": 5,
+    "label": "迷惑メールのブロック",
+    "is_assigned": false
+    },
+    {
+    "id": 10,
+    "label": "集計",
+    "is_assigned": false
+    }
+    ],
+    "inboxes": [
+    {
+    "id": 1,
+    "name": "未分類",
+    "is_assigned": true
+    },
+    {
+    "id": 28,
+    "name": "vvvv",
+    "is_assigned": false
+    },
+    {
+    "id": 27,
+    "name": "クリリン",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "オンラインゲーム",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "マーケットプレイス",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "Yahooショップ",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "DMMぱちタウン",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "英文",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "MVNO",
+    "is_assigned": true
+    }
+    ],
+    "teams": [
+    {
+    "id": 3,
+    "name": "深夜"
+    },
+    {
+    "id": 53,
+    "name": "朝方"
+    },
+    {
+    "id": 1,
+    "name": "昼"
+    },
+    {
+    "id": 2,
+    "name": "夜"
+    }
+    ]
+    },
+    {
+    "id": 4,
+    "name": "[test]加賀only",
+    "position": "",
+    "in_digital_signage": false,
+    "assignees": [
+    {
+    "id": 20,
+    "name": "悟空",
+    "is_assigned": false
+    },
+    {
+    "id": 19,
+    "name": "フリーザ",
+    "is_assigned": false
+    },
+    {
+    "id": 18,
+    "name": "ssss",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "オーバーライド",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 1,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "[test]加賀only",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "[test]金沢only",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "[test]MVNO only",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "[test]OLG only",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "[test]DMP only",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "[test]Yahoo only",
+    "is_assigned": true
+    },
+    {
+    "id": 10,
+    "name": "[test]pachi only",
+    "is_assigned": true
+    },
+    {
+    "id": 11,
+    "name": "[test]ENG only",
+    "is_assigned": true
+    },
+    {
+    "id": 12,
+    "name": "[test]all okay",
+    "is_assigned": true
+    },
+    {
+    "id": 13,
+    "name": "[test]all NG",
+    "is_assigned": true
+    },
+    {
+    "id": 14,
+    "name": "[test]加賀,金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 15,
+    "name": "[test]MVNO, OLG",
+    "is_assigned": true
+    },
+    {
+    "id": 16,
+    "name": "[test]DMP, yahoo",
+    "is_assigned": true
+    },
+    {
+    "id": 17,
+    "name": "[test]pachi,ENG",
+    "is_assigned": true
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "subject": "subject1",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 01 Lorem ipsum dolor sit amet 01 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "subject": "subject2",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 02 Lorem ipsum dolor sit amet 02 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "subject": "subject3",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 03 Lorem ipsum dolor sit amet 03 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    }
+    ],
+    "features": [
+    {
+    "id": 12,
+    "label": "アクセス権限",
+    "is_assigned": false
+    },
+    {
+    "id": 9,
+    "label": "アップロード管理",
+    "is_assigned": false
+    },
+    {
+    "id": 8,
+    "label": "スタッフ管理",
+    "is_assigned": false
+    },
+    {
+    "id": 7,
+    "label": "フォームの作成",
+    "is_assigned": false
+    },
+    {
+    "id": 1,
+    "label": "受信Box",
+    "is_assigned": false
+    },
+    {
+    "id": 6,
+    "label": "受信Box・区分・フィルタリング",
+    "is_assigned": false
+    },
+    {
+    "id": 11,
+    "label": "拠点",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "label": "新規作成",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "label": "本人・年齢確認",
+    "is_assigned": false
+    },
+    {
+    "id": 4,
+    "label": "検索",
+    "is_assigned": false
+    },
+    {
+    "id": 5,
+    "label": "迷惑メールのブロック",
+    "is_assigned": false
+    },
+    {
+    "id": 10,
+    "label": "集計",
+    "is_assigned": false
+    }
+    ],
+    "inboxes": [
+    {
+    "id": 1,
+    "name": "未分類",
+    "is_assigned": true
+    },
+    {
+    "id": 28,
+    "name": "vvvv",
+    "is_assigned": false
+    },
+    {
+    "id": 27,
+    "name": "クリリン",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "オンラインゲーム",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "マーケットプレイス",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "Yahooショップ",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "DMMぱちタウン",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "英文",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "MVNO",
+    "is_assigned": true
+    }
+    ],
+    "teams": [
+    {
+    "id": 10,
+    "name": "昼"
+    },
+    {
+    "id": 11,
+    "name": "夜"
+    },
+    {
+    "id": 12,
+    "name": "深夜"
+    }
+    ]
+    },
+    {
+    "id": 5,
+    "name": "[test]金沢only",
+    "position": "",
+    "in_digital_signage": false,
+    "assignees": [
+    {
+    "id": 20,
+    "name": "悟空",
+    "is_assigned": false
+    },
+    {
+    "id": 19,
+    "name": "フリーザ",
+    "is_assigned": false
+    },
+    {
+    "id": 18,
+    "name": "ssss",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "オーバーライド",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 1,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "[test]加賀only",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "[test]金沢only",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "[test]MVNO only",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "[test]OLG only",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "[test]DMP only",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "[test]Yahoo only",
+    "is_assigned": true
+    },
+    {
+    "id": 10,
+    "name": "[test]pachi only",
+    "is_assigned": true
+    },
+    {
+    "id": 11,
+    "name": "[test]ENG only",
+    "is_assigned": true
+    },
+    {
+    "id": 12,
+    "name": "[test]all okay",
+    "is_assigned": true
+    },
+    {
+    "id": 13,
+    "name": "[test]all NG",
+    "is_assigned": true
+    },
+    {
+    "id": 14,
+    "name": "[test]加賀,金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 15,
+    "name": "[test]MVNO, OLG",
+    "is_assigned": true
+    },
+    {
+    "id": 16,
+    "name": "[test]DMP, yahoo",
+    "is_assigned": true
+    },
+    {
+    "id": 17,
+    "name": "[test]pachi,ENG",
+    "is_assigned": true
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "subject": "subject1",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 01 Lorem ipsum dolor sit amet 01 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "subject": "subject2",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 02 Lorem ipsum dolor sit amet 02 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "subject": "subject3",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 03 Lorem ipsum dolor sit amet 03 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    }
+    ],
+    "features": [
+    {
+    "id": 12,
+    "label": "アクセス権限",
+    "is_assigned": false
+    },
+    {
+    "id": 9,
+    "label": "アップロード管理",
+    "is_assigned": false
+    },
+    {
+    "id": 8,
+    "label": "スタッフ管理",
+    "is_assigned": false
+    },
+    {
+    "id": 7,
+    "label": "フォームの作成",
+    "is_assigned": false
+    },
+    {
+    "id": 1,
+    "label": "受信Box",
+    "is_assigned": false
+    },
+    {
+    "id": 6,
+    "label": "受信Box・区分・フィルタリング",
+    "is_assigned": false
+    },
+    {
+    "id": 11,
+    "label": "拠点",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "label": "新規作成",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "label": "本人・年齢確認",
+    "is_assigned": false
+    },
+    {
+    "id": 4,
+    "label": "検索",
+    "is_assigned": false
+    },
+    {
+    "id": 5,
+    "label": "迷惑メールのブロック",
+    "is_assigned": false
+    },
+    {
+    "id": 10,
+    "label": "集計",
+    "is_assigned": false
+    }
+    ],
+    "inboxes": [
+    {
+    "id": 1,
+    "name": "未分類",
+    "is_assigned": true
+    },
+    {
+    "id": 28,
+    "name": "vvvv",
+    "is_assigned": false
+    },
+    {
+    "id": 27,
+    "name": "クリリン",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "オンラインゲーム",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "マーケットプレイス",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "Yahooショップ",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "DMMぱちタウン",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "英文",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "MVNO",
+    "is_assigned": true
+    }
+    ],
+    "teams": [
+    {
+    "id": 13,
+    "name": "昼"
+    },
+    {
+    "id": 14,
+    "name": "夜"
+    },
+    {
+    "id": 15,
+    "name": "深夜"
+    }
+    ]
+    },
+    {
+    "id": 6,
+    "name": "[test]MVNO only",
+    "position": "",
+    "in_digital_signage": false,
+    "assignees": [
+    {
+    "id": 20,
+    "name": "悟空",
+    "is_assigned": false
+    },
+    {
+    "id": 19,
+    "name": "フリーザ",
+    "is_assigned": false
+    },
+    {
+    "id": 18,
+    "name": "ssss",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "オーバーライド",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 1,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "[test]加賀only",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "[test]金沢only",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "[test]MVNO only",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "[test]OLG only",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "[test]DMP only",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "[test]Yahoo only",
+    "is_assigned": true
+    },
+    {
+    "id": 10,
+    "name": "[test]pachi only",
+    "is_assigned": true
+    },
+    {
+    "id": 11,
+    "name": "[test]ENG only",
+    "is_assigned": true
+    },
+    {
+    "id": 12,
+    "name": "[test]all okay",
+    "is_assigned": true
+    },
+    {
+    "id": 13,
+    "name": "[test]all NG",
+    "is_assigned": true
+    },
+    {
+    "id": 14,
+    "name": "[test]加賀,金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 15,
+    "name": "[test]MVNO, OLG",
+    "is_assigned": true
+    },
+    {
+    "id": 16,
+    "name": "[test]DMP, yahoo",
+    "is_assigned": true
+    },
+    {
+    "id": 17,
+    "name": "[test]pachi,ENG",
+    "is_assigned": true
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "subject": "subject1",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 01 Lorem ipsum dolor sit amet 01 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "subject": "subject2",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 02 Lorem ipsum dolor sit amet 02 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "subject": "subject3",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 03 Lorem ipsum dolor sit amet 03 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    }
+    ],
+    "features": [
+    {
+    "id": 12,
+    "label": "アクセス権限",
+    "is_assigned": false
+    },
+    {
+    "id": 9,
+    "label": "アップロード管理",
+    "is_assigned": false
+    },
+    {
+    "id": 8,
+    "label": "スタッフ管理",
+    "is_assigned": false
+    },
+    {
+    "id": 7,
+    "label": "フォームの作成",
+    "is_assigned": false
+    },
+    {
+    "id": 1,
+    "label": "受信Box",
+    "is_assigned": false
+    },
+    {
+    "id": 6,
+    "label": "受信Box・区分・フィルタリング",
+    "is_assigned": false
+    },
+    {
+    "id": 11,
+    "label": "拠点",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "label": "新規作成",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "label": "本人・年齢確認",
+    "is_assigned": false
+    },
+    {
+    "id": 4,
+    "label": "検索",
+    "is_assigned": false
+    },
+    {
+    "id": 5,
+    "label": "迷惑メールのブロック",
+    "is_assigned": false
+    },
+    {
+    "id": 10,
+    "label": "集計",
+    "is_assigned": false
+    }
+    ],
+    "inboxes": [
+    {
+    "id": 1,
+    "name": "未分類",
+    "is_assigned": true
+    },
+    {
+    "id": 28,
+    "name": "vvvv",
+    "is_assigned": false
+    },
+    {
+    "id": 27,
+    "name": "クリリン",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "オンラインゲーム",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "マーケットプレイス",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "Yahooショップ",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "DMMぱちタウン",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "英文",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "MVNO",
+    "is_assigned": true
+    }
+    ],
+    "teams": [
+    {
+    "id": 16,
+    "name": "昼"
+    },
+    {
+    "id": 17,
+    "name": "夜"
+    },
+    {
+    "id": 18,
+    "name": "深夜"
+    }
+    ]
+    },
+    {
+    "id": 7,
+    "name": "[test]OLG only",
+    "position": "",
+    "in_digital_signage": false,
+    "assignees": [
+    {
+    "id": 20,
+    "name": "悟空",
+    "is_assigned": false
+    },
+    {
+    "id": 19,
+    "name": "フリーザ",
+    "is_assigned": false
+    },
+    {
+    "id": 18,
+    "name": "ssss",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "オーバーライド",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 1,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "[test]加賀only",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "[test]金沢only",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "[test]MVNO only",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "[test]OLG only",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "[test]DMP only",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "[test]Yahoo only",
+    "is_assigned": true
+    },
+    {
+    "id": 10,
+    "name": "[test]pachi only",
+    "is_assigned": true
+    },
+    {
+    "id": 11,
+    "name": "[test]ENG only",
+    "is_assigned": true
+    },
+    {
+    "id": 12,
+    "name": "[test]all okay",
+    "is_assigned": true
+    },
+    {
+    "id": 13,
+    "name": "[test]all NG",
+    "is_assigned": true
+    },
+    {
+    "id": 14,
+    "name": "[test]加賀,金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 15,
+    "name": "[test]MVNO, OLG",
+    "is_assigned": true
+    },
+    {
+    "id": 16,
+    "name": "[test]DMP, yahoo",
+    "is_assigned": true
+    },
+    {
+    "id": 17,
+    "name": "[test]pachi,ENG",
+    "is_assigned": true
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "subject": "subject1",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 01 Lorem ipsum dolor sit amet 01 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "subject": "subject2",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 02 Lorem ipsum dolor sit amet 02 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "subject": "subject3",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 03 Lorem ipsum dolor sit amet 03 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    }
+    ],
+    "features": [
+    {
+    "id": 12,
+    "label": "アクセス権限",
+    "is_assigned": false
+    },
+    {
+    "id": 9,
+    "label": "アップロード管理",
+    "is_assigned": false
+    },
+    {
+    "id": 8,
+    "label": "スタッフ管理",
+    "is_assigned": false
+    },
+    {
+    "id": 7,
+    "label": "フォームの作成",
+    "is_assigned": false
+    },
+    {
+    "id": 1,
+    "label": "受信Box",
+    "is_assigned": false
+    },
+    {
+    "id": 6,
+    "label": "受信Box・区分・フィルタリング",
+    "is_assigned": false
+    },
+    {
+    "id": 11,
+    "label": "拠点",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "label": "新規作成",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "label": "本人・年齢確認",
+    "is_assigned": false
+    },
+    {
+    "id": 4,
+    "label": "検索",
+    "is_assigned": false
+    },
+    {
+    "id": 5,
+    "label": "迷惑メールのブロック",
+    "is_assigned": false
+    },
+    {
+    "id": 10,
+    "label": "集計",
+    "is_assigned": false
+    }
+    ],
+    "inboxes": [
+    {
+    "id": 1,
+    "name": "未分類",
+    "is_assigned": true
+    },
+    {
+    "id": 28,
+    "name": "vvvv",
+    "is_assigned": false
+    },
+    {
+    "id": 27,
+    "name": "クリリン",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "オンラインゲーム",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "マーケットプレイス",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "Yahooショップ",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "DMMぱちタウン",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "英文",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "MVNO",
+    "is_assigned": true
+    }
+    ],
+    "teams": [
+    {
+    "id": 19,
+    "name": "昼"
+    },
+    {
+    "id": 20,
+    "name": "夜"
+    },
+    {
+    "id": 21,
+    "name": "深夜"
+    }
+    ]
+    },
+    {
+    "id": 8,
+    "name": "[test]DMP only",
+    "position": "",
+    "in_digital_signage": false,
+    "assignees": [
+    {
+    "id": 20,
+    "name": "悟空",
+    "is_assigned": false
+    },
+    {
+    "id": 19,
+    "name": "フリーザ",
+    "is_assigned": false
+    },
+    {
+    "id": 18,
+    "name": "ssss",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "オーバーライド",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 1,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "[test]加賀only",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "[test]金沢only",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "[test]MVNO only",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "[test]OLG only",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "[test]DMP only",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "[test]Yahoo only",
+    "is_assigned": true
+    },
+    {
+    "id": 10,
+    "name": "[test]pachi only",
+    "is_assigned": true
+    },
+    {
+    "id": 11,
+    "name": "[test]ENG only",
+    "is_assigned": true
+    },
+    {
+    "id": 12,
+    "name": "[test]all okay",
+    "is_assigned": true
+    },
+    {
+    "id": 13,
+    "name": "[test]all NG",
+    "is_assigned": true
+    },
+    {
+    "id": 14,
+    "name": "[test]加賀,金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 15,
+    "name": "[test]MVNO, OLG",
+    "is_assigned": true
+    },
+    {
+    "id": 16,
+    "name": "[test]DMP, yahoo",
+    "is_assigned": true
+    },
+    {
+    "id": 17,
+    "name": "[test]pachi,ENG",
+    "is_assigned": true
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "subject": "subject1",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 01 Lorem ipsum dolor sit amet 01 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "subject": "subject2",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 02 Lorem ipsum dolor sit amet 02 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "subject": "subject3",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 03 Lorem ipsum dolor sit amet 03 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    }
+    ],
+    "features": [
+    {
+    "id": 12,
+    "label": "アクセス権限",
+    "is_assigned": false
+    },
+    {
+    "id": 9,
+    "label": "アップロード管理",
+    "is_assigned": false
+    },
+    {
+    "id": 8,
+    "label": "スタッフ管理",
+    "is_assigned": false
+    },
+    {
+    "id": 7,
+    "label": "フォームの作成",
+    "is_assigned": false
+    },
+    {
+    "id": 1,
+    "label": "受信Box",
+    "is_assigned": false
+    },
+    {
+    "id": 6,
+    "label": "受信Box・区分・フィルタリング",
+    "is_assigned": false
+    },
+    {
+    "id": 11,
+    "label": "拠点",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "label": "新規作成",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "label": "本人・年齢確認",
+    "is_assigned": false
+    },
+    {
+    "id": 4,
+    "label": "検索",
+    "is_assigned": false
+    },
+    {
+    "id": 5,
+    "label": "迷惑メールのブロック",
+    "is_assigned": false
+    },
+    {
+    "id": 10,
+    "label": "集計",
+    "is_assigned": false
+    }
+    ],
+    "inboxes": [
+    {
+    "id": 1,
+    "name": "未分類",
+    "is_assigned": true
+    },
+    {
+    "id": 28,
+    "name": "vvvv",
+    "is_assigned": false
+    },
+    {
+    "id": 27,
+    "name": "クリリン",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "オンラインゲーム",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "マーケットプレイス",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "Yahooショップ",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "DMMぱちタウン",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "英文",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "MVNO",
+    "is_assigned": true
+    }
+    ],
+    "teams": [
+    {
+    "id": 22,
+    "name": "昼"
+    },
+    {
+    "id": 23,
+    "name": "夜"
+    },
+    {
+    "id": 24,
+    "name": "深夜"
+    }
+    ]
+    },
+    {
+    "id": 9,
+    "name": "[test]Yahoo only",
+    "position": "",
+    "in_digital_signage": false,
+    "assignees": [
+    {
+    "id": 20,
+    "name": "悟空",
+    "is_assigned": false
+    },
+    {
+    "id": 19,
+    "name": "フリーザ",
+    "is_assigned": false
+    },
+    {
+    "id": 18,
+    "name": "ssss",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "オーバーライド",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 1,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "[test]加賀only",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "[test]金沢only",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "[test]MVNO only",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "[test]OLG only",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "[test]DMP only",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "[test]Yahoo only",
+    "is_assigned": true
+    },
+    {
+    "id": 10,
+    "name": "[test]pachi only",
+    "is_assigned": true
+    },
+    {
+    "id": 11,
+    "name": "[test]ENG only",
+    "is_assigned": true
+    },
+    {
+    "id": 12,
+    "name": "[test]all okay",
+    "is_assigned": true
+    },
+    {
+    "id": 13,
+    "name": "[test]all NG",
+    "is_assigned": true
+    },
+    {
+    "id": 14,
+    "name": "[test]加賀,金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 15,
+    "name": "[test]MVNO, OLG",
+    "is_assigned": true
+    },
+    {
+    "id": 16,
+    "name": "[test]DMP, yahoo",
+    "is_assigned": true
+    },
+    {
+    "id": 17,
+    "name": "[test]pachi,ENG",
+    "is_assigned": true
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "subject": "subject1",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 01 Lorem ipsum dolor sit amet 01 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "subject": "subject2",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 02 Lorem ipsum dolor sit amet 02 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "subject": "subject3",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 03 Lorem ipsum dolor sit amet 03 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    }
+    ],
+    "features": [
+    {
+    "id": 12,
+    "label": "アクセス権限",
+    "is_assigned": false
+    },
+    {
+    "id": 9,
+    "label": "アップロード管理",
+    "is_assigned": false
+    },
+    {
+    "id": 8,
+    "label": "スタッフ管理",
+    "is_assigned": false
+    },
+    {
+    "id": 7,
+    "label": "フォームの作成",
+    "is_assigned": false
+    },
+    {
+    "id": 1,
+    "label": "受信Box",
+    "is_assigned": false
+    },
+    {
+    "id": 6,
+    "label": "受信Box・区分・フィルタリング",
+    "is_assigned": false
+    },
+    {
+    "id": 11,
+    "label": "拠点",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "label": "新規作成",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "label": "本人・年齢確認",
+    "is_assigned": false
+    },
+    {
+    "id": 4,
+    "label": "検索",
+    "is_assigned": false
+    },
+    {
+    "id": 5,
+    "label": "迷惑メールのブロック",
+    "is_assigned": false
+    },
+    {
+    "id": 10,
+    "label": "集計",
+    "is_assigned": false
+    }
+    ],
+    "inboxes": [
+    {
+    "id": 1,
+    "name": "未分類",
+    "is_assigned": true
+    },
+    {
+    "id": 28,
+    "name": "vvvv",
+    "is_assigned": false
+    },
+    {
+    "id": 27,
+    "name": "クリリン",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "オンラインゲーム",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "マーケットプレイス",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "Yahooショップ",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "DMMぱちタウン",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "英文",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "MVNO",
+    "is_assigned": true
+    }
+    ],
+    "teams": [
+    {
+    "id": 25,
+    "name": "昼"
+    },
+    {
+    "id": 26,
+    "name": "夜"
+    },
+    {
+    "id": 27,
+    "name": "深夜"
+    }
+    ]
+    },
+    {
+    "id": 10,
+    "name": "[test]pachi only",
+    "position": "",
+    "in_digital_signage": false,
+    "assignees": [
+    {
+    "id": 20,
+    "name": "悟空",
+    "is_assigned": false
+    },
+    {
+    "id": 19,
+    "name": "フリーザ",
+    "is_assigned": false
+    },
+    {
+    "id": 18,
+    "name": "ssss",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "オーバーライド",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 1,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "[test]加賀only",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "[test]金沢only",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "[test]MVNO only",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "[test]OLG only",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "[test]DMP only",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "[test]Yahoo only",
+    "is_assigned": true
+    },
+    {
+    "id": 10,
+    "name": "[test]pachi only",
+    "is_assigned": true
+    },
+    {
+    "id": 11,
+    "name": "[test]ENG only",
+    "is_assigned": true
+    },
+    {
+    "id": 12,
+    "name": "[test]all okay",
+    "is_assigned": true
+    },
+    {
+    "id": 13,
+    "name": "[test]all NG",
+    "is_assigned": true
+    },
+    {
+    "id": 14,
+    "name": "[test]加賀,金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 15,
+    "name": "[test]MVNO, OLG",
+    "is_assigned": true
+    },
+    {
+    "id": 16,
+    "name": "[test]DMP, yahoo",
+    "is_assigned": true
+    },
+    {
+    "id": 17,
+    "name": "[test]pachi,ENG",
+    "is_assigned": true
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "subject": "subject1",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 01 Lorem ipsum dolor sit amet 01 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "subject": "subject2",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 02 Lorem ipsum dolor sit amet 02 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "subject": "subject3",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 03 Lorem ipsum dolor sit amet 03 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    }
+    ],
+    "features": [
+    {
+    "id": 12,
+    "label": "アクセス権限",
+    "is_assigned": false
+    },
+    {
+    "id": 9,
+    "label": "アップロード管理",
+    "is_assigned": false
+    },
+    {
+    "id": 8,
+    "label": "スタッフ管理",
+    "is_assigned": false
+    },
+    {
+    "id": 7,
+    "label": "フォームの作成",
+    "is_assigned": false
+    },
+    {
+    "id": 1,
+    "label": "受信Box",
+    "is_assigned": false
+    },
+    {
+    "id": 6,
+    "label": "受信Box・区分・フィルタリング",
+    "is_assigned": false
+    },
+    {
+    "id": 11,
+    "label": "拠点",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "label": "新規作成",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "label": "本人・年齢確認",
+    "is_assigned": false
+    },
+    {
+    "id": 4,
+    "label": "検索",
+    "is_assigned": false
+    },
+    {
+    "id": 5,
+    "label": "迷惑メールのブロック",
+    "is_assigned": false
+    },
+    {
+    "id": 10,
+    "label": "集計",
+    "is_assigned": false
+    }
+    ],
+    "inboxes": [
+    {
+    "id": 1,
+    "name": "未分類",
+    "is_assigned": true
+    },
+    {
+    "id": 28,
+    "name": "vvvv",
+    "is_assigned": false
+    },
+    {
+    "id": 27,
+    "name": "クリリン",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "オンラインゲーム",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "マーケットプレイス",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "Yahooショップ",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "DMMぱちタウン",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "英文",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "MVNO",
+    "is_assigned": true
+    }
+    ],
+    "teams": [
+    {
+    "id": 28,
+    "name": "昼"
+    },
+    {
+    "id": 29,
+    "name": "夜"
+    },
+    {
+    "id": 30,
+    "name": "深夜"
+    }
+    ]
+    },
+    {
+    "id": 11,
+    "name": "[test]ENG only",
+    "position": "",
+    "in_digital_signage": false,
+    "assignees": [
+    {
+    "id": 20,
+    "name": "悟空",
+    "is_assigned": false
+    },
+    {
+    "id": 19,
+    "name": "フリーザ",
+    "is_assigned": false
+    },
+    {
+    "id": 18,
+    "name": "ssss",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "オーバーライド",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 1,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "[test]加賀only",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "[test]金沢only",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "[test]MVNO only",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "[test]OLG only",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "[test]DMP only",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "[test]Yahoo only",
+    "is_assigned": true
+    },
+    {
+    "id": 10,
+    "name": "[test]pachi only",
+    "is_assigned": true
+    },
+    {
+    "id": 11,
+    "name": "[test]ENG only",
+    "is_assigned": true
+    },
+    {
+    "id": 12,
+    "name": "[test]all okay",
+    "is_assigned": true
+    },
+    {
+    "id": 13,
+    "name": "[test]all NG",
+    "is_assigned": true
+    },
+    {
+    "id": 14,
+    "name": "[test]加賀,金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 15,
+    "name": "[test]MVNO, OLG",
+    "is_assigned": true
+    },
+    {
+    "id": 16,
+    "name": "[test]DMP, yahoo",
+    "is_assigned": true
+    },
+    {
+    "id": 17,
+    "name": "[test]pachi,ENG",
+    "is_assigned": true
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "subject": "subject1",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 01 Lorem ipsum dolor sit amet 01 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "subject": "subject2",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 02 Lorem ipsum dolor sit amet 02 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "subject": "subject3",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 03 Lorem ipsum dolor sit amet 03 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    }
+    ],
+    "features": [
+    {
+    "id": 12,
+    "label": "アクセス権限",
+    "is_assigned": false
+    },
+    {
+    "id": 9,
+    "label": "アップロード管理",
+    "is_assigned": false
+    },
+    {
+    "id": 8,
+    "label": "スタッフ管理",
+    "is_assigned": false
+    },
+    {
+    "id": 7,
+    "label": "フォームの作成",
+    "is_assigned": false
+    },
+    {
+    "id": 1,
+    "label": "受信Box",
+    "is_assigned": false
+    },
+    {
+    "id": 6,
+    "label": "受信Box・区分・フィルタリング",
+    "is_assigned": false
+    },
+    {
+    "id": 11,
+    "label": "拠点",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "label": "新規作成",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "label": "本人・年齢確認",
+    "is_assigned": false
+    },
+    {
+    "id": 4,
+    "label": "検索",
+    "is_assigned": false
+    },
+    {
+    "id": 5,
+    "label": "迷惑メールのブロック",
+    "is_assigned": false
+    },
+    {
+    "id": 10,
+    "label": "集計",
+    "is_assigned": false
+    }
+    ],
+    "inboxes": [
+    {
+    "id": 1,
+    "name": "未分類",
+    "is_assigned": true
+    },
+    {
+    "id": 28,
+    "name": "vvvv",
+    "is_assigned": false
+    },
+    {
+    "id": 27,
+    "name": "クリリン",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "オンラインゲーム",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "マーケットプレイス",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "Yahooショップ",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "DMMぱちタウン",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "英文",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "MVNO",
+    "is_assigned": true
+    }
+    ],
+    "teams": [
+    {
+    "id": 31,
+    "name": "昼"
+    },
+    {
+    "id": 32,
+    "name": "夜"
+    },
+    {
+    "id": 33,
+    "name": "深夜"
+    }
+    ]
+    },
+    {
+    "id": 12,
+    "name": "[test]all okay",
+    "position": "",
+    "in_digital_signage": false,
+    "assignees": [
+    {
+    "id": 20,
+    "name": "悟空",
+    "is_assigned": false
+    },
+    {
+    "id": 19,
+    "name": "フリーザ",
+    "is_assigned": false
+    },
+    {
+    "id": 18,
+    "name": "ssss",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "オーバーライド",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 1,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "[test]加賀only",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "[test]金沢only",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "[test]MVNO only",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "[test]OLG only",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "[test]DMP only",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "[test]Yahoo only",
+    "is_assigned": true
+    },
+    {
+    "id": 10,
+    "name": "[test]pachi only",
+    "is_assigned": true
+    },
+    {
+    "id": 11,
+    "name": "[test]ENG only",
+    "is_assigned": true
+    },
+    {
+    "id": 12,
+    "name": "[test]all okay",
+    "is_assigned": true
+    },
+    {
+    "id": 13,
+    "name": "[test]all NG",
+    "is_assigned": true
+    },
+    {
+    "id": 14,
+    "name": "[test]加賀,金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 15,
+    "name": "[test]MVNO, OLG",
+    "is_assigned": true
+    },
+    {
+    "id": 16,
+    "name": "[test]DMP, yahoo",
+    "is_assigned": true
+    },
+    {
+    "id": 17,
+    "name": "[test]pachi,ENG",
+    "is_assigned": true
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "subject": "subject1",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 01 Lorem ipsum dolor sit amet 01 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "subject": "subject2",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 02 Lorem ipsum dolor sit amet 02 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "subject": "subject3",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 03 Lorem ipsum dolor sit amet 03 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    }
+    ],
+    "features": [
+    {
+    "id": 12,
+    "label": "アクセス権限",
+    "is_assigned": false
+    },
+    {
+    "id": 9,
+    "label": "アップロード管理",
+    "is_assigned": false
+    },
+    {
+    "id": 8,
+    "label": "スタッフ管理",
+    "is_assigned": false
+    },
+    {
+    "id": 7,
+    "label": "フォームの作成",
+    "is_assigned": false
+    },
+    {
+    "id": 1,
+    "label": "受信Box",
+    "is_assigned": false
+    },
+    {
+    "id": 6,
+    "label": "受信Box・区分・フィルタリング",
+    "is_assigned": false
+    },
+    {
+    "id": 11,
+    "label": "拠点",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "label": "新規作成",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "label": "本人・年齢確認",
+    "is_assigned": false
+    },
+    {
+    "id": 4,
+    "label": "検索",
+    "is_assigned": false
+    },
+    {
+    "id": 5,
+    "label": "迷惑メールのブロック",
+    "is_assigned": false
+    },
+    {
+    "id": 10,
+    "label": "集計",
+    "is_assigned": false
+    }
+    ],
+    "inboxes": [
+    {
+    "id": 1,
+    "name": "未分類",
+    "is_assigned": true
+    },
+    {
+    "id": 28,
+    "name": "vvvv",
+    "is_assigned": false
+    },
+    {
+    "id": 27,
+    "name": "クリリン",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "オンラインゲーム",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "マーケットプレイス",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "Yahooショップ",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "DMMぱちタウン",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "英文",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "MVNO",
+    "is_assigned": true
+    }
+    ],
+    "teams": [
+    {
+    "id": 34,
+    "name": "昼"
+    },
+    {
+    "id": 35,
+    "name": "夜"
+    },
+    {
+    "id": 36,
+    "name": "深夜"
+    }
+    ]
+    },
+    {
+    "id": 13,
+    "name": "[test]all NG",
+    "position": "",
+    "in_digital_signage": false,
+    "assignees": [
+    {
+    "id": 20,
+    "name": "悟空",
+    "is_assigned": false
+    },
+    {
+    "id": 19,
+    "name": "フリーザ",
+    "is_assigned": false
+    },
+    {
+    "id": 18,
+    "name": "ssss",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "オーバーライド",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 1,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "[test]加賀only",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "[test]金沢only",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "[test]MVNO only",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "[test]OLG only",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "[test]DMP only",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "[test]Yahoo only",
+    "is_assigned": true
+    },
+    {
+    "id": 10,
+    "name": "[test]pachi only",
+    "is_assigned": true
+    },
+    {
+    "id": 11,
+    "name": "[test]ENG only",
+    "is_assigned": true
+    },
+    {
+    "id": 12,
+    "name": "[test]all okay",
+    "is_assigned": true
+    },
+    {
+    "id": 13,
+    "name": "[test]all NG",
+    "is_assigned": true
+    },
+    {
+    "id": 14,
+    "name": "[test]加賀,金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 15,
+    "name": "[test]MVNO, OLG",
+    "is_assigned": true
+    },
+    {
+    "id": 16,
+    "name": "[test]DMP, yahoo",
+    "is_assigned": true
+    },
+    {
+    "id": 17,
+    "name": "[test]pachi,ENG",
+    "is_assigned": true
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "subject": "subject1",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 01 Lorem ipsum dolor sit amet 01 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "subject": "subject2",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 02 Lorem ipsum dolor sit amet 02 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "subject": "subject3",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 03 Lorem ipsum dolor sit amet 03 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    }
+    ],
+    "features": [
+    {
+    "id": 12,
+    "label": "アクセス権限",
+    "is_assigned": false
+    },
+    {
+    "id": 9,
+    "label": "アップロード管理",
+    "is_assigned": false
+    },
+    {
+    "id": 8,
+    "label": "スタッフ管理",
+    "is_assigned": false
+    },
+    {
+    "id": 7,
+    "label": "フォームの作成",
+    "is_assigned": false
+    },
+    {
+    "id": 1,
+    "label": "受信Box",
+    "is_assigned": false
+    },
+    {
+    "id": 6,
+    "label": "受信Box・区分・フィルタリング",
+    "is_assigned": false
+    },
+    {
+    "id": 11,
+    "label": "拠点",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "label": "新規作成",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "label": "本人・年齢確認",
+    "is_assigned": false
+    },
+    {
+    "id": 4,
+    "label": "検索",
+    "is_assigned": false
+    },
+    {
+    "id": 5,
+    "label": "迷惑メールのブロック",
+    "is_assigned": false
+    },
+    {
+    "id": 10,
+    "label": "集計",
+    "is_assigned": false
+    }
+    ],
+    "inboxes": [
+    {
+    "id": 1,
+    "name": "未分類",
+    "is_assigned": true
+    },
+    {
+    "id": 28,
+    "name": "vvvv",
+    "is_assigned": false
+    },
+    {
+    "id": 27,
+    "name": "クリリン",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "オンラインゲーム",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "マーケットプレイス",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "Yahooショップ",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "DMMぱちタウン",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "英文",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "MVNO",
+    "is_assigned": true
+    }
+    ],
+    "teams": [
+    {
+    "id": 37,
+    "name": "昼"
+    },
+    {
+    "id": 38,
+    "name": "夜"
+    },
+    {
+    "id": 39,
+    "name": "深夜"
+    }
+    ]
+    },
+    {
+    "id": 14,
+    "name": "[test]加賀,金沢",
+    "position": "",
+    "in_digital_signage": false,
+    "assignees": [
+    {
+    "id": 20,
+    "name": "悟空",
+    "is_assigned": false
+    },
+    {
+    "id": 19,
+    "name": "フリーザ",
+    "is_assigned": false
+    },
+    {
+    "id": 18,
+    "name": "ssss",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "オーバーライド",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 1,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "[test]加賀only",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "[test]金沢only",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "[test]MVNO only",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "[test]OLG only",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "[test]DMP only",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "[test]Yahoo only",
+    "is_assigned": true
+    },
+    {
+    "id": 10,
+    "name": "[test]pachi only",
+    "is_assigned": true
+    },
+    {
+    "id": 11,
+    "name": "[test]ENG only",
+    "is_assigned": true
+    },
+    {
+    "id": 12,
+    "name": "[test]all okay",
+    "is_assigned": true
+    },
+    {
+    "id": 13,
+    "name": "[test]all NG",
+    "is_assigned": true
+    },
+    {
+    "id": 14,
+    "name": "[test]加賀,金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 15,
+    "name": "[test]MVNO, OLG",
+    "is_assigned": true
+    },
+    {
+    "id": 16,
+    "name": "[test]DMP, yahoo",
+    "is_assigned": true
+    },
+    {
+    "id": 17,
+    "name": "[test]pachi,ENG",
+    "is_assigned": true
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "subject": "subject1",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 01 Lorem ipsum dolor sit amet 01 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "subject": "subject2",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 02 Lorem ipsum dolor sit amet 02 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "subject": "subject3",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 03 Lorem ipsum dolor sit amet 03 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    }
+    ],
+    "features": [
+    {
+    "id": 12,
+    "label": "アクセス権限",
+    "is_assigned": false
+    },
+    {
+    "id": 9,
+    "label": "アップロード管理",
+    "is_assigned": false
+    },
+    {
+    "id": 8,
+    "label": "スタッフ管理",
+    "is_assigned": false
+    },
+    {
+    "id": 7,
+    "label": "フォームの作成",
+    "is_assigned": false
+    },
+    {
+    "id": 1,
+    "label": "受信Box",
+    "is_assigned": false
+    },
+    {
+    "id": 6,
+    "label": "受信Box・区分・フィルタリング",
+    "is_assigned": false
+    },
+    {
+    "id": 11,
+    "label": "拠点",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "label": "新規作成",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "label": "本人・年齢確認",
+    "is_assigned": false
+    },
+    {
+    "id": 4,
+    "label": "検索",
+    "is_assigned": false
+    },
+    {
+    "id": 5,
+    "label": "迷惑メールのブロック",
+    "is_assigned": false
+    },
+    {
+    "id": 10,
+    "label": "集計",
+    "is_assigned": false
+    }
+    ],
+    "inboxes": [
+    {
+    "id": 1,
+    "name": "未分類",
+    "is_assigned": true
+    },
+    {
+    "id": 28,
+    "name": "vvvv",
+    "is_assigned": false
+    },
+    {
+    "id": 27,
+    "name": "クリリン",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "オンラインゲーム",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "マーケットプレイス",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "Yahooショップ",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "DMMぱちタウン",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "英文",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "MVNO",
+    "is_assigned": true
+    }
+    ],
+    "teams": [
+    {
+    "id": 40,
+    "name": "昼"
+    },
+    {
+    "id": 41,
+    "name": "夜"
+    },
+    {
+    "id": 42,
+    "name": "深夜"
+    }
+    ]
+    },
+    {
+    "id": 15,
+    "name": "[test]MVNO, OLG",
+    "position": "",
+    "in_digital_signage": false,
+    "assignees": [
+    {
+    "id": 20,
+    "name": "悟空",
+    "is_assigned": false
+    },
+    {
+    "id": 19,
+    "name": "フリーザ",
+    "is_assigned": false
+    },
+    {
+    "id": 18,
+    "name": "ssss",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "オーバーライド",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 1,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "[test]加賀only",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "[test]金沢only",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "[test]MVNO only",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "[test]OLG only",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "[test]DMP only",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "[test]Yahoo only",
+    "is_assigned": true
+    },
+    {
+    "id": 10,
+    "name": "[test]pachi only",
+    "is_assigned": true
+    },
+    {
+    "id": 11,
+    "name": "[test]ENG only",
+    "is_assigned": true
+    },
+    {
+    "id": 12,
+    "name": "[test]all okay",
+    "is_assigned": true
+    },
+    {
+    "id": 13,
+    "name": "[test]all NG",
+    "is_assigned": true
+    },
+    {
+    "id": 14,
+    "name": "[test]加賀,金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 15,
+    "name": "[test]MVNO, OLG",
+    "is_assigned": true
+    },
+    {
+    "id": 16,
+    "name": "[test]DMP, yahoo",
+    "is_assigned": true
+    },
+    {
+    "id": 17,
+    "name": "[test]pachi,ENG",
+    "is_assigned": true
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "subject": "subject1",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 01 Lorem ipsum dolor sit amet 01 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "subject": "subject2",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 02 Lorem ipsum dolor sit amet 02 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "subject": "subject3",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 03 Lorem ipsum dolor sit amet 03 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    }
+    ],
+    "features": [
+    {
+    "id": 12,
+    "label": "アクセス権限",
+    "is_assigned": false
+    },
+    {
+    "id": 9,
+    "label": "アップロード管理",
+    "is_assigned": false
+    },
+    {
+    "id": 8,
+    "label": "スタッフ管理",
+    "is_assigned": false
+    },
+    {
+    "id": 7,
+    "label": "フォームの作成",
+    "is_assigned": false
+    },
+    {
+    "id": 1,
+    "label": "受信Box",
+    "is_assigned": false
+    },
+    {
+    "id": 6,
+    "label": "受信Box・区分・フィルタリング",
+    "is_assigned": false
+    },
+    {
+    "id": 11,
+    "label": "拠点",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "label": "新規作成",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "label": "本人・年齢確認",
+    "is_assigned": false
+    },
+    {
+    "id": 4,
+    "label": "検索",
+    "is_assigned": false
+    },
+    {
+    "id": 5,
+    "label": "迷惑メールのブロック",
+    "is_assigned": false
+    },
+    {
+    "id": 10,
+    "label": "集計",
+    "is_assigned": false
+    }
+    ],
+    "inboxes": [
+    {
+    "id": 1,
+    "name": "未分類",
+    "is_assigned": true
+    },
+    {
+    "id": 28,
+    "name": "vvvv",
+    "is_assigned": false
+    },
+    {
+    "id": 27,
+    "name": "クリリン",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "オンラインゲーム",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "マーケットプレイス",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "Yahooショップ",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "DMMぱちタウン",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "英文",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "MVNO",
+    "is_assigned": true
+    }
+    ],
+    "teams": [
+    {
+    "id": 43,
+    "name": "昼"
+    },
+    {
+    "id": 44,
+    "name": "夜"
+    },
+    {
+    "id": 45,
+    "name": "深夜"
+    }
+    ]
+    },
+    {
+    "id": 16,
+    "name": "[test]DMP, yahoo",
+    "position": "",
+    "in_digital_signage": false,
+    "assignees": [
+    {
+    "id": 20,
+    "name": "悟空",
+    "is_assigned": false
+    },
+    {
+    "id": 19,
+    "name": "フリーザ",
+    "is_assigned": false
+    },
+    {
+    "id": 18,
+    "name": "ssss",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "オーバーライド",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 1,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "[test]加賀only",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "[test]金沢only",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "[test]MVNO only",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "[test]OLG only",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "[test]DMP only",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "[test]Yahoo only",
+    "is_assigned": true
+    },
+    {
+    "id": 10,
+    "name": "[test]pachi only",
+    "is_assigned": true
+    },
+    {
+    "id": 11,
+    "name": "[test]ENG only",
+    "is_assigned": true
+    },
+    {
+    "id": 12,
+    "name": "[test]all okay",
+    "is_assigned": true
+    },
+    {
+    "id": 13,
+    "name": "[test]all NG",
+    "is_assigned": true
+    },
+    {
+    "id": 14,
+    "name": "[test]加賀,金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 15,
+    "name": "[test]MVNO, OLG",
+    "is_assigned": true
+    },
+    {
+    "id": 16,
+    "name": "[test]DMP, yahoo",
+    "is_assigned": true
+    },
+    {
+    "id": 17,
+    "name": "[test]pachi,ENG",
+    "is_assigned": true
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "subject": "subject1",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 01 Lorem ipsum dolor sit amet 01 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "subject": "subject2",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 02 Lorem ipsum dolor sit amet 02 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "subject": "subject3",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 03 Lorem ipsum dolor sit amet 03 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    }
+    ],
+    "features": [
+    {
+    "id": 12,
+    "label": "アクセス権限",
+    "is_assigned": false
+    },
+    {
+    "id": 9,
+    "label": "アップロード管理",
+    "is_assigned": false
+    },
+    {
+    "id": 8,
+    "label": "スタッフ管理",
+    "is_assigned": false
+    },
+    {
+    "id": 7,
+    "label": "フォームの作成",
+    "is_assigned": false
+    },
+    {
+    "id": 1,
+    "label": "受信Box",
+    "is_assigned": false
+    },
+    {
+    "id": 6,
+    "label": "受信Box・区分・フィルタリング",
+    "is_assigned": false
+    },
+    {
+    "id": 11,
+    "label": "拠点",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "label": "新規作成",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "label": "本人・年齢確認",
+    "is_assigned": false
+    },
+    {
+    "id": 4,
+    "label": "検索",
+    "is_assigned": false
+    },
+    {
+    "id": 5,
+    "label": "迷惑メールのブロック",
+    "is_assigned": false
+    },
+    {
+    "id": 10,
+    "label": "集計",
+    "is_assigned": false
+    }
+    ],
+    "inboxes": [
+    {
+    "id": 1,
+    "name": "未分類",
+    "is_assigned": true
+    },
+    {
+    "id": 28,
+    "name": "vvvv",
+    "is_assigned": false
+    },
+    {
+    "id": 27,
+    "name": "クリリン",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "オンラインゲーム",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "マーケットプレイス",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "Yahooショップ",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "DMMぱちタウン",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "英文",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "MVNO",
+    "is_assigned": true
+    }
+    ],
+    "teams": [
+    {
+    "id": 46,
+    "name": "昼"
+    },
+    {
+    "id": 47,
+    "name": "夜"
+    },
+    {
+    "id": 48,
+    "name": "深夜"
+    }
+    ]
+    },
+    {
+    "id": 17,
+    "name": "[test]pachi,ENG",
+    "position": "",
+    "in_digital_signage": false,
+    "assignees": [
+    {
+    "id": 20,
+    "name": "悟空",
+    "is_assigned": false
+    },
+    {
+    "id": 19,
+    "name": "フリーザ",
+    "is_assigned": false
+    },
+    {
+    "id": 18,
+    "name": "ssss",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "オーバーライド",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 1,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "[test]加賀only",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "[test]金沢only",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "[test]MVNO only",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "[test]OLG only",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "[test]DMP only",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "[test]Yahoo only",
+    "is_assigned": true
+    },
+    {
+    "id": 10,
+    "name": "[test]pachi only",
+    "is_assigned": true
+    },
+    {
+    "id": 11,
+    "name": "[test]ENG only",
+    "is_assigned": true
+    },
+    {
+    "id": 12,
+    "name": "[test]all okay",
+    "is_assigned": true
+    },
+    {
+    "id": 13,
+    "name": "[test]all NG",
+    "is_assigned": true
+    },
+    {
+    "id": 14,
+    "name": "[test]加賀,金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 15,
+    "name": "[test]MVNO, OLG",
+    "is_assigned": true
+    },
+    {
+    "id": 16,
+    "name": "[test]DMP, yahoo",
+    "is_assigned": true
+    },
+    {
+    "id": 17,
+    "name": "[test]pachi,ENG",
+    "is_assigned": true
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "subject": "subject1",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 01 Lorem ipsum dolor sit amet 01 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "subject": "subject2",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 02 Lorem ipsum dolor sit amet 02 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "subject": "subject3",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 03 Lorem ipsum dolor sit amet 03 Lorem ipsum dolor sit amet ---------------------",
+    "is_assigned": false
+    }
+    ],
+    "features": [
+    {
+    "id": 12,
+    "label": "アクセス権限",
+    "is_assigned": false
+    },
+    {
+    "id": 9,
+    "label": "アップロード管理",
+    "is_assigned": false
+    },
+    {
+    "id": 8,
+    "label": "スタッフ管理",
+    "is_assigned": false
+    },
+    {
+    "id": 7,
+    "label": "フォームの作成",
+    "is_assigned": false
+    },
+    {
+    "id": 1,
+    "label": "受信Box",
+    "is_assigned": false
+    },
+    {
+    "id": 6,
+    "label": "受信Box・区分・フィルタリング",
+    "is_assigned": false
+    },
+    {
+    "id": 11,
+    "label": "拠点",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "label": "新規作成",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "label": "本人・年齢確認",
+    "is_assigned": false
+    },
+    {
+    "id": 4,
+    "label": "検索",
+    "is_assigned": false
+    },
+    {
+    "id": 5,
+    "label": "迷惑メールのブロック",
+    "is_assigned": false
+    },
+    {
+    "id": 10,
+    "label": "集計",
+    "is_assigned": false
+    }
+    ],
+    "inboxes": [
+    {
+    "id": 1,
+    "name": "未分類",
+    "is_assigned": true
+    },
+    {
+    "id": 28,
+    "name": "vvvv",
+    "is_assigned": false
+    },
+    {
+    "id": 27,
+    "name": "クリリン",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "name": "金沢",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "name": "加賀",
+    "is_assigned": true
+    },
+    {
+    "id": 5,
+    "name": "オンラインゲーム",
+    "is_assigned": true
+    },
+    {
+    "id": 6,
+    "name": "マーケットプレイス",
+    "is_assigned": true
+    },
+    {
+    "id": 7,
+    "name": "Yahooショップ",
+    "is_assigned": true
+    },
+    {
+    "id": 8,
+    "name": "DMMぱちタウン",
+    "is_assigned": true
+    },
+    {
+    "id": 9,
+    "name": "英文",
+    "is_assigned": true
+    },
+    {
+    "id": 4,
+    "name": "MVNO",
+    "is_assigned": true
+    }
+    ],
+    "teams": [
+    {
+    "id": 49,
+    "name": "昼"
+    },
+    {
+    "id": 50,
+    "name": "夜"
+    },
+    {
+    "id": 51,
+    "name": "深夜"
+    }
+    ]
+    }
+  ],
+  "branch":{
+    "features": [
+      {
+        "id": 12,
+        "label": "アクセス権限",
+        "is_assigned": false
+      },
+      {
+        "id": 9,
+        "label": "アップロード管理",
+        "is_assigned": false
+      },
+      {
+        "id": 8,
+        "label": "スタッフ管理",
+        "is_assigned": false
+      },
+      {
+        "id": 7,
+        "label": "フォームの作成",
+        "is_assigned": false
+      },
+      {
+        "id": 1,
+        "label": "受信Box",
+        "is_assigned": false
+      },
+      {
+        "id": 6,
+        "label": "受信Box・区分・フィルタリング",
+        "is_assigned": false
+      },
+      {
+        "id": 11,
+        "label": "拠点",
+        "is_assigned": false
+      },
+      {
+        "id": 3,
+        "label": "新規作成",
+        "is_assigned": false
+      },
+      {
+        "id": 2,
+        "label": "本人・年齢確認",
+        "is_assigned": false
+      },
+      {
+        "id": 4,
+        "label": "検索",
+        "is_assigned": false
+      },
+      {
+        "id": 5,
+        "label": "迷惑メールのブロック",
+        "is_assigned": false
+      },
+      {
+        "id": 10,
+        "label": "集計",
+        "is_assigned": false
+      }
+    ],
+    "inboxes": [
+      {
+      "id": 1,
+      "name": "未分類",
+      "is_assigned": false
+      },
+      {
+      "id": 28,
+      "name": "vvvv",
+      "is_assigned": false
+      },
+      {
+      "id": 27,
+      "name": "クリリン",
+      "is_assigned": false
+      },
+      {
+      "id": 3,
+      "name": "金沢",
+      "is_assigned": false
+      },
+      {
+      "id": 2,
+      "name": "加賀",
+      "is_assigned": false
+      },
+      {
+      "id": 5,
+      "name": "オンラインゲーム",
+      "is_assigned": false
+      },
+      {
+      "id": 6,
+      "name": "マーケットプレイス",
+      "is_assigned": false
+      },
+      {
+      "id": 7,
+      "name": "Yahooショップ",
+      "is_assigned": false
+      },
+      {
+      "id": 8,
+      "name": "DMMぱちタウン",
+      "is_assigned": false
+      },
+      {
+      "id": 9,
+      "name": "英文",
+      "is_assigned": false
+      },
+      {
+      "id": 4,
+      "name": "MVNO",
+      "is_assigned": false
+      }
+    ],
+    "emailadds": [
+      {
+      "id": 1,
+      "emailadd": "tester01@example.com",
+      "subject": "subject1",
+      "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 01 Lorem ipsum dolor sit amet 01 Lorem ipsum dolor sit amet ---------------------",
+      "is_assigned": false
+      },
+      {
+      "id": 2,
+      "emailadd": "tester02@example.com",
+      "subject": "subject2",
+      "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 02 Lorem ipsum dolor sit amet 02 Lorem ipsum dolor sit amet ---------------------",
+      "is_assigned": false
+      },
+      {
+      "id": 3,
+      "emailadd": "tester03@example.com",
+      "subject": "subject3",
+      "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 03 Lorem ipsum dolor sit amet 03 Lorem ipsum dolor sit amet ---------------------",
+      "is_assigned": false
+      }
+    ],
+    "assignees": [
+      {
+      "id": 20,
+      "name": "悟空",
+      "is_assigned": false
+      },
+      {
+      "id": 19,
+      "name": "フリーザ",
+      "is_assigned": false
+      },
+      {
+      "id": 18,
+      "name": "ssss",
+      "is_assigned": false
+      },
+      {
+      "id": 3,
+      "name": "オーバーライド",
+      "is_assigned": false
+      },
+      {
+      "id": 2,
+      "name": "金沢",
+      "is_assigned": false
+      },
+      {
+      "id": 1,
+      "name": "加賀",
+      "is_assigned": false
+      },
+      {
+      "id": 4,
+      "name": "[test]加賀only",
+      "is_assigned": false
+      },
+      {
+      "id": 5,
+      "name": "[test]金沢only",
+      "is_assigned": false
+      },
+      {
+      "id": 6,
+      "name": "[test]MVNO only",
+      "is_assigned": false
+      },
+      {
+      "id": 7,
+      "name": "[test]OLG only",
+      "is_assigned": false
+      },
+      {
+      "id": 8,
+      "name": "[test]DMP only",
+      "is_assigned": false
+      },
+      {
+      "id": 9,
+      "name": "[test]Yahoo only",
+      "is_assigned": false
+      },
+      {
+      "id": 10,
+      "name": "[test]pachi only",
+      "is_assigned": false
+      },
+      {
+      "id": 11,
+      "name": "[test]ENG only",
+      "is_assigned": false
+      },
+      {
+      "id": 12,
+      "name": "[test]all okay",
+      "is_assigned": false
+      },
+      {
+      "id": 13,
+      "name": "[test]all NG",
+      "is_assigned": false
+      },
+      {
+      "id": 14,
+      "name": "[test]加賀,金沢",
+      "is_assigned": false
+      },
+      {
+      "id": 15,
+      "name": "[test]MVNO, OLG",
+      "is_assigned": false
+      },
+      {
+      "id": 16,
+      "name": "[test]DMP, yahoo",
+      "is_assigned": false
+      },
+      {
+      "id": 17,
+      "name": "[test]pachi,ENG",
+      "is_assigned": false
+      }
+    ]
+  },
+  "inboxes":[
+    {
+    "id": 1,
+    "name": "未分類",
+    "categories": [ ],
+    "emailadds": [
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "is_assigned": true
+    },
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "is_assigned": false
+    }
+    ]
+    },
+    {
+    "id": 28,
+    "name": "vvvv",
+    "categories": [
+    {
+    "id": 56,
+    "name": "eeee",
+    "kana": null,
+    "is_active": false,
+    "subjects": [
+    {
+    "id": 386,
+    "name": "sssss",
+    "is_active": false
+    }
+    ]
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "is_assigned": false
+    }
+    ]
+    },
+    {
+    "id": 27,
+    "name": "クリリン",
+    "categories": [
+    {
+    "id": 55,
+    "name": "ヤムチャ",
+    "kana": null,
+    "is_active": false,
+    "subjects": [
+    {
+    "id": 385,
+    "name": "プーアル",
+    "is_active": false
+    }
+    ]
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "is_assigned": false
+    }
+    ]
+    },
+    {
+    "id": 3,
+    "name": "金沢",
+    "categories": [
+    {
+    "id": 1,
+    "name": "お支払い・会員状態",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 1,
+    "name": "会員登録時の質問",
+    "is_active": true
+    },
+    {
+    "id": 2,
+    "name": "ログインについて",
+    "is_active": true
+    },
+    {
+    "id": 3,
+    "name": "ID・パスワードの紛失",
+    "is_active": true
+    },
+    {
+    "id": 4,
+    "name": "不正アクセス対策",
+    "is_active": true
+    },
+    {
+    "id": 5,
+    "name": "登録情報確認・変更",
+    "is_active": true
+    },
+    {
+    "id": 6,
+    "name": "年齢確認について",
+    "is_active": true
+    },
+    {
+    "id": 7,
+    "name": "完全退会",
+    "is_active": true
+    },
+    {
+    "id": 8,
+    "name": "クレジット",
+    "is_active": true
+    },
+    {
+    "id": 9,
+    "name": "ポイント",
+    "is_active": true
+    },
+    {
+    "id": 10,
+    "name": "チップ",
+    "is_active": true
+    },
+    {
+    "id": 11,
+    "name": "プリペイドカード",
+    "is_active": true
+    },
+    {
+    "id": 12,
+    "name": "銀行振込",
+    "is_active": true
+    },
+    {
+    "id": 13,
+    "name": "WebMoney",
+    "is_active": true
+    },
+    {
+    "id": 14,
+    "name": "ケータイ払い",
+    "is_active": true
+    },
+    {
+    "id": 15,
+    "name": "コンビニ",
+    "is_active": true
+    },
+    {
+    "id": 16,
+    "name": "ビットキャッシュ",
+    "is_active": true
+    },
+    {
+    "id": 17,
+    "name": "楽天ID決済",
+    "is_active": true
+    },
+    {
+    "id": 18,
+    "name": "Edy・Suica",
+    "is_active": true
+    },
+    {
+    "id": 19,
+    "name": "PayPal",
+    "is_active": true
+    },
+    {
+    "id": 20,
+    "name": "ビットコイン",
+    "is_active": true
+    },
+    {
+    "id": 21,
+    "name": "ポイントコード",
+    "is_active": true
+    },
+    {
+    "id": 22,
+    "name": "不正・利用覚え無し",
+    "is_active": true
+    },
+    {
+    "id": 23,
+    "name": "レビュー",
+    "is_active": true
+    },
+    {
+    "id": 24,
+    "name": "障害",
+    "is_active": true
+    },
+    {
+    "id": 25,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 26,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 40,
+    "name": "[test]お支払・会員情報",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 371,
+    "name": "[test]DMMポイント",
+    "is_active": true
+    },
+    {
+    "id": 372,
+    "name": "[test]ビットコイン",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 41,
+    "name": "[test]ビットコイン",
+    "kana": null,
+    "is_active": true,
+    "subjects": [ ]
+    },
+    {
+    "id": 42,
+    "name": "[test]OLG",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 374,
+    "name": "[test]その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 43,
+    "name": "[test]動画",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 373,
+    "name": "[test]Android：アプリの不具合関係",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 44,
+    "name": "[test]通販",
+    "kana": null,
+    "is_active": true,
+    "subjects": [ ]
+    },
+    {
+    "id": 6,
+    "name": "通販",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 107,
+    "name": "料金について",
+    "is_active": true
+    },
+    {
+    "id": 108,
+    "name": "キャンセル・分割・まとめ",
+    "is_active": true
+    },
+    {
+    "id": 109,
+    "name": "配送オプション変更",
+    "is_active": true
+    },
+    {
+    "id": 110,
+    "name": "不良・誤送・不足・返品・未着",
+    "is_active": true
+    },
+    {
+    "id": 111,
+    "name": "注文・発送状態確認",
+    "is_active": true
+    },
+    {
+    "id": 112,
+    "name": "取り寄せ商品の納期確認",
+    "is_active": true
+    },
+    {
+    "id": 113,
+    "name": "利用方法・サービス内容確認",
+    "is_active": true
+    },
+    {
+    "id": 114,
+    "name": "商品内容・取り扱い",
+    "is_active": true
+    },
+    {
+    "id": 115,
+    "name": "コンビニ受取",
+    "is_active": true
+    },
+    {
+    "id": 116,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 117,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 7,
+    "name": "DVD＆CDレンタル",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 118,
+    "name": "料金について",
+    "is_active": true
+    },
+    {
+    "id": 119,
+    "name": "発送未着",
+    "is_active": true
+    },
+    {
+    "id": 120,
+    "name": "返却不着",
+    "is_active": true
+    },
+    {
+    "id": 121,
+    "name": "再生不良",
+    "is_active": true
+    },
+    {
+    "id": 122,
+    "name": "誤送",
+    "is_active": true
+    },
+    {
+    "id": 123,
+    "name": "返却について",
+    "is_active": true
+    },
+    {
+    "id": 124,
+    "name": "商品紛失・破損連絡",
+    "is_active": true
+    },
+    {
+    "id": 125,
+    "name": "契約状態確認",
+    "is_active": true
+    },
+    {
+    "id": 126,
+    "name": "保留会員",
+    "is_active": true
+    },
+    {
+    "id": 127,
+    "name": "解約",
+    "is_active": true
+    },
+    {
+    "id": 128,
+    "name": "プラン変更",
+    "is_active": true
+    },
+    {
+    "id": 129,
+    "name": "休会",
+    "is_active": true
+    },
+    {
+    "id": 130,
+    "name": "利用方法・サービス内容の確認",
+    "is_active": true
+    },
+    {
+    "id": 131,
+    "name": "発送・貸出作業について",
+    "is_active": true
+    },
+    {
+    "id": 132,
+    "name": "無料キャンペーンについて",
+    "is_active": true
+    },
+    {
+    "id": 133,
+    "name": "単品レンタルに関する問い合わせ",
+    "is_active": true
+    },
+    {
+    "id": 134,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 135,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 8,
+    "name": "いろいろレンタル",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 136,
+    "name": "利用方法・サービス内容の確認",
+    "is_active": true
+    },
+    {
+    "id": 137,
+    "name": "料金について",
+    "is_active": true
+    },
+    {
+    "id": 138,
+    "name": "商品について",
+    "is_active": true
+    },
+    {
+    "id": 139,
+    "name": "発送・貸出作業について",
+    "is_active": true
+    },
+    {
+    "id": 140,
+    "name": "誤送・不良・不足",
+    "is_active": true
+    },
+    {
+    "id": 141,
+    "name": "返却について",
+    "is_active": true
+    },
+    {
+    "id": 142,
+    "name": "商品紛失・破損連絡",
+    "is_active": true
+    },
+    {
+    "id": 143,
+    "name": "ゴルフレンタルについて",
+    "is_active": true
+    },
+    {
+    "id": 144,
+    "name": "高級車レンタルについて",
+    "is_active": true
+    },
+    {
+    "id": 145,
+    "name": "生活家電セットレンタルについて",
+    "is_active": true
+    },
+    {
+    "id": 146,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 147,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 9,
+    "name": "ファッションレンタル",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 148,
+    "name": "利用方法・サービス内容の確認",
+    "is_active": true
+    },
+    {
+    "id": 149,
+    "name": "料金について",
+    "is_active": true
+    },
+    {
+    "id": 150,
+    "name": "商品について",
+    "is_active": true
+    },
+    {
+    "id": 151,
+    "name": "発送・貸出作業について",
+    "is_active": true
+    },
+    {
+    "id": 152,
+    "name": "誤送・不良・不足",
+    "is_active": true
+    },
+    {
+    "id": 153,
+    "name": "返却について",
+    "is_active": true
+    },
+    {
+    "id": 154,
+    "name": "商品紛失・破損連絡",
+    "is_active": true
+    },
+    {
+    "id": 155,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 156,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 10,
+    "name": "コミックレンタル",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 157,
+    "name": "利用方法・サービス内容の確認他",
+    "is_active": true
+    },
+    {
+    "id": 158,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 11,
+    "name": "ライブチャット",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 159,
+    "name": "料金について",
+    "is_active": true
+    },
+    {
+    "id": 160,
+    "name": "チャット不具合",
+    "is_active": true
+    },
+    {
+    "id": 161,
+    "name": "チャットガールについて",
+    "is_active": true
+    },
+    {
+    "id": 162,
+    "name": "利用方法",
+    "is_active": true
+    },
+    {
+    "id": 163,
+    "name": "プライベートムービーについて",
+    "is_active": true
+    },
+    {
+    "id": 164,
+    "name": "チャットガールからの問い合わせ",
+    "is_active": true
+    },
+    {
+    "id": 165,
+    "name": "障害",
+    "is_active": true
+    },
+    {
+    "id": 166,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 167,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 17,
+    "name": "公営ギャンブル",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 214,
+    "name": "利用方法・サービス内容の確認",
+    "is_active": true
+    },
+    {
+    "id": 215,
+    "name": "toretaについて",
+    "is_active": true
+    },
+    {
+    "id": 216,
+    "name": "車券購入について",
+    "is_active": true
+    },
+    {
+    "id": 217,
+    "name": "払戻しについて",
+    "is_active": true
+    },
+    {
+    "id": 218,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 219,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 21,
+    "name": "DMM.make ROBOTS",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 243,
+    "name": "利用方法・サービス内容の確認",
+    "is_active": true
+    },
+    {
+    "id": 244,
+    "name": "料金について",
+    "is_active": true
+    },
+    {
+    "id": 245,
+    "name": "商品について",
+    "is_active": true
+    },
+    {
+    "id": 246,
+    "name": "発送について",
+    "is_active": true
+    },
+    {
+    "id": 247,
+    "name": "誤送・不足",
+    "is_active": true
+    },
+    {
+    "id": 248,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 26,
+    "name": "DMM光",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 288,
+    "name": "お支払いについて",
+    "is_active": true
+    },
+    {
+    "id": 289,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 290,
+    "name": "障害",
+    "is_active": true
+    },
+    {
+    "id": 291,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 27,
+    "name": "DMM オンラインサロン",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 292,
+    "name": "利用方法・サービス内容",
+    "is_active": true
+    },
+    {
+    "id": 293,
+    "name": "お支払いについて",
+    "is_active": true
+    },
+    {
+    "id": 294,
+    "name": "入会について",
+    "is_active": true
+    },
+    {
+    "id": 295,
+    "name": "退会について",
+    "is_active": true
+    },
+    {
+    "id": 296,
+    "name": "プライバシーについて",
+    "is_active": true
+    },
+    {
+    "id": 297,
+    "name": "facebookの利用方法について",
+    "is_active": true
+    },
+    {
+    "id": 298,
+    "name": "迷惑行為・トラブル",
+    "is_active": true
+    },
+    {
+    "id": 299,
+    "name": "オーナーからの問い合わせ",
+    "is_active": true
+    },
+    {
+    "id": 300,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 301,
+    "name": "障害",
+    "is_active": true
+    },
+    {
+    "id": 302,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 28,
+    "name": "DMM Okan",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 303,
+    "name": "【依頼者】利用方法・サービス内容",
+    "is_active": true
+    },
+    {
+    "id": 304,
+    "name": "【依頼者】依頼について",
+    "is_active": true
+    },
+    {
+    "id": 305,
+    "name": "【依頼者】依頼実施日について",
+    "is_active": true
+    },
+    {
+    "id": 306,
+    "name": "【依頼者】利用料金・支払いについて",
+    "is_active": true
+    },
+    {
+    "id": 307,
+    "name": "【家事担当者】利用方法・サービス内容",
+    "is_active": true
+    },
+    {
+    "id": 308,
+    "name": "【家事担当者】シフト登録について",
+    "is_active": true
+    },
+    {
+    "id": 309,
+    "name": "【家事担当者】おしごとの引き受けについて",
+    "is_active": true
+    },
+    {
+    "id": 310,
+    "name": "【家事担当者】おしごと実施日について",
+    "is_active": true
+    },
+    {
+    "id": 311,
+    "name": "【家事担当者】売上金の振込みについて",
+    "is_active": true
+    },
+    {
+    "id": 312,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 313,
+    "name": "障害",
+    "is_active": true
+    },
+    {
+    "id": 314,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 29,
+    "name": "得とくDMMポイント",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 315,
+    "name": "利用方法・サービス内容の確認",
+    "is_active": true
+    },
+    {
+    "id": 316,
+    "name": "DMMポイントが追加されない",
+    "is_active": true
+    },
+    {
+    "id": 317,
+    "name": "障害",
+    "is_active": true
+    },
+    {
+    "id": 318,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 319,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 30,
+    "name": "その他",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 320,
+    "name": "無料情報",
+    "is_active": true
+    },
+    {
+    "id": 321,
+    "name": "ブログ",
+    "is_active": true
+    },
+    {
+    "id": 322,
+    "name": "FX",
+    "is_active": true
+    },
+    {
+    "id": 323,
+    "name": "お礼",
+    "is_active": true
+    },
+    {
+    "id": 324,
+    "name": "架空請求",
+    "is_active": true
+    },
+    {
+    "id": 325,
+    "name": "その他",
+    "is_active": true
+    },
+    {
+    "id": 326,
+    "name": "空メール",
+    "is_active": true
+    },
+    {
+    "id": 327,
+    "name": "転送",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 31,
+    "name": "アフィリエイト",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 328,
+    "name": "転送",
+    "is_active": true
+    },
+    {
+    "id": 329,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 32,
+    "name": "メールマガジン",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 330,
+    "name": "転送",
+    "is_active": true
+    },
+    {
+    "id": 331,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 33,
+    "name": "講演依頼",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 332,
+    "name": "転送",
+    "is_active": true
+    },
+    {
+    "id": 333,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 39,
+    "name": "通販フリー",
+    "kana": null,
+    "is_active": true,
+    "subjects": [ ]
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "is_assigned": false
+    }
+    ]
+    },
+    {
+    "id": 2,
+    "name": "加賀",
+    "categories": [
+    {
+    "id": 2,
+    "name": "動画再生",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 27,
+    "name": "料金について",
+    "is_active": true
+    },
+    {
+    "id": 28,
+    "name": "利用方法・サービス内容確認（PC）",
+    "is_active": true
+    },
+    {
+    "id": 29,
+    "name": "利用方法・サービス内容確認（PC以外）",
+    "is_active": true
+    },
+    {
+    "id": 30,
+    "name": "購入した情報の削除・非表示",
+    "is_active": true
+    },
+    {
+    "id": 31,
+    "name": "無料動画",
+    "is_active": true
+    },
+    {
+    "id": 32,
+    "name": "Windows専用プレイヤー関係（DL/ST）",
+    "is_active": true
+    },
+    {
+    "id": 33,
+    "name": "ストリーム再生（Windows/HTML5プレイヤー）",
+    "is_active": true
+    },
+    {
+    "id": 34,
+    "name": "ストリーム再生（Mac/HTML5プレイヤー）",
+    "is_active": true
+    },
+    {
+    "id": 35,
+    "name": "ストリーム再生（Silverlight/Chromeアプリ）",
+    "is_active": true
+    },
+    {
+    "id": 36,
+    "name": "ダウンロード再生不具合（Windows）",
+    "is_active": true
+    },
+    {
+    "id": 37,
+    "name": "ダウンロード再生不具合（Mac）",
+    "is_active": true
+    },
+    {
+    "id": 38,
+    "name": "ダウンロード不具合、ダウンロード方法（PC）",
+    "is_active": true
+    },
+    {
+    "id": 39,
+    "name": "ダウンロード不具合、ダウンロード方法（PC以外）",
+    "is_active": true
+    },
+    {
+    "id": 40,
+    "name": "作品内容不具合",
+    "is_active": true
+    },
+    {
+    "id": 41,
+    "name": "48グループ（利用方法・操作方法・契約・支払い）",
+    "is_active": true
+    },
+    {
+    "id": 42,
+    "name": "48グループ（ライブ不具合）",
+    "is_active": true
+    },
+    {
+    "id": 43,
+    "name": "48グループ（アーカイブ視聴方法・ライセンス取得関係）",
+    "is_active": true
+    },
+    {
+    "id": 44,
+    "name": "48グループ（アーカイブコンテツ内容の不具合・映像不良）",
+    "is_active": true
+    },
+    {
+    "id": 45,
+    "name": "48グループ（その他）",
+    "is_active": true
+    },
+    {
+    "id": 46,
+    "name": "48グループ（要望・コンテンツリクエストなど）",
+    "is_active": true
+    },
+    {
+    "id": 47,
+    "name": "48グループ（障害）",
+    "is_active": true
+    },
+    {
+    "id": 48,
+    "name": "バンダイCH",
+    "is_active": true
+    },
+    {
+    "id": 49,
+    "name": "１０円動画",
+    "is_active": true
+    },
+    {
+    "id": 50,
+    "name": "Android：アプリのインストール、更新、アップデート",
+    "is_active": true
+    },
+    {
+    "id": 51,
+    "name": "Android：アプリの操作方法、利用方法",
+    "is_active": true
+    },
+    {
+    "id": 52,
+    "name": "Android：アプリが強制終了する、起動しない",
+    "is_active": true
+    },
+    {
+    "id": 53,
+    "name": "Android：エラーコードがでる不具合",
+    "is_active": true
+    },
+    {
+    "id": 54,
+    "name": "Android：上記に属さない、アプリの不具合関係",
+    "is_active": true
+    },
+    {
+    "id": 55,
+    "name": "iOS：アプリのインストール、更新、アップデート",
+    "is_active": true
+    },
+    {
+    "id": 56,
+    "name": "iOS:アプリの操作方法、利用方法",
+    "is_active": true
+    },
+    {
+    "id": 57,
+    "name": "iOS：アプリが強制終了する、起動しない",
+    "is_active": true
+    },
+    {
+    "id": 58,
+    "name": "iOS：エラーコードがでる不具合",
+    "is_active": true
+    },
+    {
+    "id": 59,
+    "name": "iOS：上記に属さない、アプリの不具合関係",
+    "is_active": true
+    },
+    {
+    "id": 60,
+    "name": "特殊イベント・配信関連(当日)",
+    "is_active": true
+    },
+    {
+    "id": 61,
+    "name": "特殊イベント・配信関連（当日以外）",
+    "is_active": true
+    },
+    {
+    "id": 62,
+    "name": "利用者側の回線速度、通信状態に起因する症状",
+    "is_active": true
+    },
+    {
+    "id": 63,
+    "name": "ページ表示、サービスなどへの要望",
+    "is_active": true
+    },
+    {
+    "id": 64,
+    "name": "再生プレイヤー、システム、機能などへの要望",
+    "is_active": true
+    },
+    {
+    "id": 65,
+    "name": "区分にない要望",
+    "is_active": true
+    },
+    {
+    "id": 66,
+    "name": "その他",
+    "is_active": true
+    },
+    {
+    "id": 67,
+    "name": "障害",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 4,
+    "name": "同人",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 81,
+    "name": "誤購入",
+    "is_active": true
+    },
+    {
+    "id": 82,
+    "name": "対応OS外での起動不可",
+    "is_active": true
+    },
+    {
+    "id": 83,
+    "name": "商品が起動できない",
+    "is_active": true
+    },
+    {
+    "id": 84,
+    "name": "ダウンロード・結合・解凍について",
+    "is_active": true
+    },
+    {
+    "id": 85,
+    "name": "利用方法・サービス内容の確認",
+    "is_active": true
+    },
+    {
+    "id": 86,
+    "name": "作品内容不具合",
+    "is_active": true
+    },
+    {
+    "id": 87,
+    "name": "DMM Books（Android)",
+    "is_active": true
+    },
+    {
+    "id": 88,
+    "name": "DMM Books（iOS）",
+    "is_active": true
+    },
+    {
+    "id": 89,
+    "name": "障害",
+    "is_active": true
+    },
+    {
+    "id": 90,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 91,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 3,
+    "name": "PCソフト・美少女ゲーム",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 68,
+    "name": "商品が起動できない",
+    "is_active": true
+    },
+    {
+    "id": 69,
+    "name": "ダウンロード・結合・解凍について",
+    "is_active": true
+    },
+    {
+    "id": 70,
+    "name": "認証できない・充電番号を求められる",
+    "is_active": true
+    },
+    {
+    "id": 71,
+    "name": "エラーによる起動不可",
+    "is_active": true
+    },
+    {
+    "id": 72,
+    "name": "利用方法・サービス内容の確認",
+    "is_active": true
+    },
+    {
+    "id": 73,
+    "name": "作品内容不具合",
+    "is_active": true
+    },
+    {
+    "id": 74,
+    "name": "DMM GAME PLAYER",
+    "is_active": true
+    },
+    {
+    "id": 75,
+    "name": "GAMESストアアプリ",
+    "is_active": true
+    },
+    {
+    "id": 76,
+    "name": "ケータイ",
+    "is_active": true
+    },
+    {
+    "id": 77,
+    "name": "音楽",
+    "is_active": true
+    },
+    {
+    "id": 78,
+    "name": "障害",
+    "is_active": true
+    },
+    {
+    "id": 79,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 80,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 5,
+    "name": "電子書籍",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 92,
+    "name": "ブラウザ視聴",
+    "is_active": true
+    },
+    {
+    "id": 93,
+    "name": "誤購入",
+    "is_active": true
+    },
+    {
+    "id": 94,
+    "name": "DL不可・DL方法",
+    "is_active": true
+    },
+    {
+    "id": 95,
+    "name": "利用方法・サービス内容の確認",
+    "is_active": true
+    },
+    {
+    "id": 96,
+    "name": "DMMBooks（PC）：インストール・利用方法",
+    "is_active": true
+    },
+    {
+    "id": 97,
+    "name": "DMMBooks（PC）：閲覧不可",
+    "is_active": true
+    },
+    {
+    "id": 98,
+    "name": "DMMBooks（Android）：インストール・利用方法",
+    "is_active": true
+    },
+    {
+    "id": 99,
+    "name": "DMMBooks（Android）：閲覧不可",
+    "is_active": true
+    },
+    {
+    "id": 100,
+    "name": "DMMBooks（iOS）：インストール・利用方法",
+    "is_active": true
+    },
+    {
+    "id": 101,
+    "name": "DMMBooks（iOS）：閲覧不可",
+    "is_active": true
+    },
+    {
+    "id": 102,
+    "name": "(duplicate) ブラウザ視聴",
+    "is_active": true
+    },
+    {
+    "id": 103,
+    "name": "作品内容・ページ表記不具合",
+    "is_active": true
+    },
+    {
+    "id": 104,
+    "name": "障害",
+    "is_active": true
+    },
+    {
+    "id": 105,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 106,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 12,
+    "name": "DMM出会い",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 168,
+    "name": "YYC関係",
+    "is_active": true
+    },
+    {
+    "id": 169,
+    "name": "イククル関係",
+    "is_active": true
+    },
+    {
+    "id": 170,
+    "name": "PCMAX関係",
+    "is_active": true
+    },
+    {
+    "id": 171,
+    "name": "障害",
+    "is_active": true
+    },
+    {
+    "id": 172,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 173,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 13,
+    "name": "アダルトオークション",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 174,
+    "name": "入札関係",
+    "is_active": true
+    },
+    {
+    "id": 175,
+    "name": "購入・発送状態の確認・変更",
+    "is_active": true
+    },
+    {
+    "id": 176,
+    "name": "不良・誤送・不足・返品・未着",
+    "is_active": true
+    },
+    {
+    "id": 177,
+    "name": "商品確認",
+    "is_active": true
+    },
+    {
+    "id": 178,
+    "name": "利用方法・サービス内容の確認",
+    "is_active": true
+    },
+    {
+    "id": 179,
+    "name": "期限延長・利用停止解除",
+    "is_active": true
+    },
+    {
+    "id": 180,
+    "name": "障害",
+    "is_active": true
+    },
+    {
+    "id": 181,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 182,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 14,
+    "name": "アイドルオークション",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 183,
+    "name": "入札関係",
+    "is_active": true
+    },
+    {
+    "id": 184,
+    "name": "購入・発送状態の確認・変更",
+    "is_active": true
+    },
+    {
+    "id": 185,
+    "name": "不良・誤送・不足・返品・未着",
+    "is_active": true
+    },
+    {
+    "id": 186,
+    "name": "商品確認",
+    "is_active": true
+    },
+    {
+    "id": 187,
+    "name": "利用方法・サービス内容の確認",
+    "is_active": true
+    },
+    {
+    "id": 188,
+    "name": "期限延長・利用停止解除",
+    "is_active": true
+    },
+    {
+    "id": 189,
+    "name": "障害",
+    "is_active": true
+    },
+    {
+    "id": 190,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 191,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 15,
+    "name": "DMM.TV",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 192,
+    "name": "acTVila/マイチャンネル関係",
+    "is_active": true
+    },
+    {
+    "id": 193,
+    "name": "ストリーム再生ができない、バッファリング関係",
+    "is_active": true
+    },
+    {
+    "id": 194,
+    "name": "利用方法、登録方法（TV/Panasonic）",
+    "is_active": true
+    },
+    {
+    "id": 195,
+    "name": "利用方法、登録方法（TV/Panasonic 以外）",
+    "is_active": true
+    },
+    {
+    "id": 196,
+    "name": "利用方法、登録方法（PlayStation4/Vita/VitaTV）",
+    "is_active": true
+    },
+    {
+    "id": 197,
+    "name": "利用方法、登録方法（AmazonFireTV/stick）",
+    "is_active": true
+    },
+    {
+    "id": 198,
+    "name": "PINコード、アダルトフィルタ関係",
+    "is_active": true
+    },
+    {
+    "id": 199,
+    "name": "その他",
+    "is_active": true
+    },
+    {
+    "id": 200,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 201,
+    "name": "障害",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 16,
+    "name": "VR動画",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 202,
+    "name": "利用方法・サービス内容の確認",
+    "is_active": true
+    },
+    {
+    "id": 203,
+    "name": "GearVRの利用方法、インストール方法",
+    "is_active": true
+    },
+    {
+    "id": 204,
+    "name": "GearVRアプリ不具合関係",
+    "is_active": true
+    },
+    {
+    "id": 205,
+    "name": "GearVRアプリへの要望",
+    "is_active": true
+    },
+    {
+    "id": 206,
+    "name": "DMM.VRアプリの利用方法、インストール方法",
+    "is_active": true
+    },
+    {
+    "id": 207,
+    "name": "DMM.VRアプリの不具合関係",
+    "is_active": true
+    },
+    {
+    "id": 208,
+    "name": "DMM.VRアプリへの要望",
+    "is_active": true
+    },
+    {
+    "id": 209,
+    "name": "動作環境外の端末からの問合わせ",
+    "is_active": true
+    },
+    {
+    "id": 210,
+    "name": "対応デバイス以外からの問合わせ",
+    "is_active": true
+    },
+    {
+    "id": 211,
+    "name": "その他",
+    "is_active": true
+    },
+    {
+    "id": 212,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 213,
+    "name": "障害",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 18,
+    "name": "DMM英会話",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 220,
+    "name": "利用方法・サービス内容の確認",
+    "is_active": true
+    },
+    {
+    "id": 221,
+    "name": "toretaについて",
+    "is_active": true
+    },
+    {
+    "id": 222,
+    "name": "車券購入について",
+    "is_active": true
+    },
+    {
+    "id": 223,
+    "name": "払戻しについて",
+    "is_active": true
+    },
+    {
+    "id": 224,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 225,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 20,
+    "name": "DMM.make",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 235,
+    "name": "サービスについて",
+    "is_active": true
+    },
+    {
+    "id": 236,
+    "name": "課金関係",
+    "is_active": true
+    },
+    {
+    "id": 237,
+    "name": "障害",
+    "is_active": true
+    },
+    {
+    "id": 238,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 239,
+    "name": "3Dプリントについて",
+    "is_active": true
+    },
+    {
+    "id": 240,
+    "name": "通販フロアのmake商品について",
+    "is_active": true
+    },
+    {
+    "id": 241,
+    "name": "窓口転送",
+    "is_active": true
+    },
+    {
+    "id": 242,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 22,
+    "name": "DMM.yell",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 249,
+    "name": "利用方法・サービス内容の確認",
+    "is_active": true
+    },
+    {
+    "id": 250,
+    "name": "課金について",
+    "is_active": true
+    },
+    {
+    "id": 251,
+    "name": "サービスについて",
+    "is_active": true
+    },
+    {
+    "id": 252,
+    "name": "イベント・キャンペーンについて",
+    "is_active": true
+    },
+    {
+    "id": 253,
+    "name": "障害",
+    "is_active": true
+    },
+    {
+    "id": 254,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 255,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 23,
+    "name": "DMM.E（イベント/チケット）",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 256,
+    "name": "アプリについて",
+    "is_active": true
+    },
+    {
+    "id": 257,
+    "name": "イベントについて",
+    "is_active": true
+    },
+    {
+    "id": 258,
+    "name": "チケット・課金について",
+    "is_active": true
+    },
+    {
+    "id": 259,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 260,
+    "name": "障害",
+    "is_active": true
+    },
+    {
+    "id": 261,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 24,
+    "name": "DMM Passストア（イベント/チケット）",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 262,
+    "name": "利用方法",
+    "is_active": true
+    },
+    {
+    "id": 263,
+    "name": "エントリーについて",
+    "is_active": true
+    },
+    {
+    "id": 264,
+    "name": "リクエストについて",
+    "is_active": true
+    },
+    {
+    "id": 265,
+    "name": "tixeeboxについて",
+    "is_active": true
+    },
+    {
+    "id": 266,
+    "name": "障害",
+    "is_active": true
+    },
+    {
+    "id": 267,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 268,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 34,
+    "name": "CMアワード",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 334,
+    "name": "CMアワードについて",
+    "is_active": true
+    },
+    {
+    "id": 335,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    },
+    {
+    "id": 38,
+    "name": "FLEVO（電子タバコ）",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 359,
+    "name": "利用方法",
+    "is_active": true
+    },
+    {
+    "id": 360,
+    "name": "不良",
+    "is_active": true
+    },
+    {
+    "id": 361,
+    "name": "その他",
+    "is_active": true
+    },
+    {
+    "id": 362,
+    "name": "利用方法（セブンイレブン）",
+    "is_active": true
+    },
+    {
+    "id": 363,
+    "name": "不良（セブンイレブン）",
+    "is_active": true
+    },
+    {
+    "id": 364,
+    "name": "その他（セブンイレブン）",
+    "is_active": true
+    },
+    {
+    "id": 365,
+    "name": "利用方法（Yahoo店）",
+    "is_active": true
+    },
+    {
+    "id": 366,
+    "name": "発送状況・キャンセル（Yahoo店）",
+    "is_active": true
+    },
+    {
+    "id": 367,
+    "name": "不良（Yahoo店）",
+    "is_active": true
+    },
+    {
+    "id": 368,
+    "name": "利用方法（楽天市場店）",
+    "is_active": true
+    },
+    {
+    "id": 369,
+    "name": "発送状況・キャンセル（楽天市場店）",
+    "is_active": true
+    },
+    {
+    "id": 370,
+    "name": "不良（楽天市場店）",
+    "is_active": true
+    }
+    ]
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "is_assigned": true
+    },
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "is_assigned": false
+    }
+    ]
+    },
+    {
+    "id": 5,
+    "name": "オンラインゲーム",
+    "categories": [
+    {
+    "id": 19,
+    "name": "オンラインゲーム",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 226,
+    "name": "サービス内容・利用方法",
+    "is_active": true
+    },
+    {
+    "id": 227,
+    "name": "ポイント・チップ",
+    "is_active": true
+    },
+    {
+    "id": 228,
+    "name": "通報",
+    "is_active": true
+    },
+    {
+    "id": 229,
+    "name": "ゲーム内容や提供者について",
+    "is_active": true
+    },
+    {
+    "id": 230,
+    "name": "DMM GAME PLAYER",
+    "is_active": true
+    },
+    {
+    "id": 231,
+    "name": "DMM GAMESストア",
+    "is_active": true
+    },
+    {
+    "id": 232,
+    "name": "障害",
+    "is_active": true
+    },
+    {
+    "id": 233,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 234,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "is_assigned": true
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "is_assigned": false
+    }
+    ]
+    },
+    {
+    "id": 6,
+    "name": "マーケットプレイス",
+    "categories": [
+    {
+    "id": 36,
+    "name": "マーケットプレイス",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 342,
+    "name": "返金について",
+    "is_active": true
+    },
+    {
+    "id": 343,
+    "name": "購入について",
+    "is_active": true
+    },
+    {
+    "id": 344,
+    "name": "出品について",
+    "is_active": true
+    },
+    {
+    "id": 345,
+    "name": "出品者から発送や連絡がない",
+    "is_active": true
+    },
+    {
+    "id": 346,
+    "name": "不良、誤送",
+    "is_active": true
+    },
+    {
+    "id": 347,
+    "name": "評価について",
+    "is_active": true
+    },
+    {
+    "id": 348,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 349,
+    "name": "その他",
+    "is_active": true
+    },
+    {
+    "id": 350,
+    "name": "転送",
+    "is_active": true
+    }
+    ]
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "is_assigned": true
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "is_assigned": false
+    }
+    ]
+    },
+    {
+    "id": 7,
+    "name": "Yahooショップ",
+    "categories": [
+    {
+    "id": 37,
+    "name": "Yahoo出店",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 351,
+    "name": "料金について",
+    "is_active": true
+    },
+    {
+    "id": 352,
+    "name": "キャンセル",
+    "is_active": true
+    },
+    {
+    "id": 353,
+    "name": "不良・誤送・不足・返品・未着",
+    "is_active": true
+    },
+    {
+    "id": 354,
+    "name": "注文・発送状況確認",
+    "is_active": true
+    },
+    {
+    "id": 355,
+    "name": "利用方法",
+    "is_active": true
+    },
+    {
+    "id": 356,
+    "name": "商品内容・取り扱い",
+    "is_active": true
+    },
+    {
+    "id": 357,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 358,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "is_assigned": true
+    },
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "is_assigned": false
+    }
+    ]
+    },
+    {
+    "id": 8,
+    "name": "DMMぱちタウン",
+    "categories": [
+    {
+    "id": 35,
+    "name": "ぱちタウン",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 336,
+    "name": "サービスについて",
+    "is_active": true
+    },
+    {
+    "id": 337,
+    "name": "課金関係",
+    "is_active": true
+    },
+    {
+    "id": 338,
+    "name": "障害",
+    "is_active": true
+    },
+    {
+    "id": 339,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 340,
+    "name": "その他",
+    "is_active": true
+    },
+    {
+    "id": 341,
+    "name": "転送",
+    "is_active": true
+    }
+    ]
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "is_assigned": true
+    },
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "is_assigned": false
+    }
+    ]
+    },
+    {
+    "id": 9,
+    "name": "英文",
+    "categories": [ ],
+    "emailadds": [
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "is_assigned": false
+    },
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "is_assigned": false
+    }
+    ]
+    },
+    {
+    "id": 4,
+    "name": "MVNO",
+    "categories": [
+    {
+    "id": 25,
+    "name": "DMM mobile",
+    "kana": null,
+    "is_active": true,
+    "subjects": [
+    {
+    "id": 269,
+    "name": "サービス内容について",
+    "is_active": true
+    },
+    {
+    "id": 270,
+    "name": "APN設定について",
+    "is_active": true
+    },
+    {
+    "id": 271,
+    "name": "端末操作について",
+    "is_active": true
+    },
+    {
+    "id": 272,
+    "name": "配送について",
+    "is_active": true
+    },
+    {
+    "id": 273,
+    "name": "SIM不良について",
+    "is_active": true
+    },
+    {
+    "id": 274,
+    "name": "販売端末不良について",
+    "is_active": true
+    },
+    {
+    "id": 275,
+    "name": "本人確認について",
+    "is_active": true
+    },
+    {
+    "id": 276,
+    "name": "利用可能端末について",
+    "is_active": true
+    },
+    {
+    "id": 277,
+    "name": "MNPについて",
+    "is_active": true
+    },
+    {
+    "id": 278,
+    "name": "契約状態確認",
+    "is_active": true
+    },
+    {
+    "id": 279,
+    "name": "プラン変更・追加チャージについて",
+    "is_active": true
+    },
+    {
+    "id": 280,
+    "name": "キャンセル・解約について",
+    "is_active": true
+    },
+    {
+    "id": 281,
+    "name": "料金・支払いについて",
+    "is_active": true
+    },
+    {
+    "id": 282,
+    "name": "端末交換オプションについて",
+    "is_active": true
+    },
+    {
+    "id": 283,
+    "name": "キャンペーンについて",
+    "is_active": true
+    },
+    {
+    "id": 284,
+    "name": "DMMトークについて",
+    "is_active": true
+    },
+    {
+    "id": 285,
+    "name": "要望",
+    "is_active": true
+    },
+    {
+    "id": 286,
+    "name": "障害",
+    "is_active": true
+    },
+    {
+    "id": 287,
+    "name": "その他",
+    "is_active": true
+    }
+    ]
+    }
+    ],
+    "emailadds": [
+    {
+    "id": 2,
+    "emailadd": "tester02@example.com",
+    "is_assigned": true
+    },
+    {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "is_assigned": false
+    },
+    {
+    "id": 3,
+    "emailadd": "tester03@example.com",
+    "is_assigned": false
+    }
+    ]
+    }
+  ],
+  "staffs": [
+    {
+      "branch_id": 13,
+      "branch_name": "[test]all NG",
+      "staff_id": 18,
+      "admin_login_id": "okasako-takumi+210",
+      "realname": "",
+      "nickname": "QAテスト用210",
+      "branch_team_id": 38,
+      "team_name": "夜",
+      "is_active": 1
+    },
+    {
+      "branch_id": 12,
+      "branch_name": "[test]all okay",
+      "staff_id": 17,
+      "admin_login_id": "okasako-takumi+209",
+      "realname": "",
+      "nickname": "QAテスト用209",
+      "branch_team_id": 36,
+      "team_name": "深夜",
+      "is_active": 1
+    },
+    {
+      "branch_id": 8,
+      "branch_name": "[test]DMP only",
+      "staff_id": 13,
+      "admin_login_id": "okasako-takumi+205",
+      "realname": "",
+      "nickname": "QAテスト用205",
+      "branch_team_id": 23,
+      "team_name": "夜",
+      "is_active": 1
+    },
+    {
+      "branch_id": 16,
+      "branch_name": "[test]DMP, yahoo",
+      "staff_id": 21,
+      "admin_login_id": "okasako-takumi+213",
+      "realname": "",
+      "nickname": "QAテスト用213",
+      "branch_team_id": 47,
+      "team_name": "夜",
+      "is_active": 1
+    },
+    {
+      "branch_id": 11,
+      "branch_name": "[test]ENG only",
+      "staff_id": 16,
+      "admin_login_id": "okasako-takumi+208",
+      "realname": "",
+      "nickname": "QAテスト用208",
+      "branch_team_id": 31,
+      "team_name": "昼",
+      "is_active": 1
+    },
+    {
+      "branch_id": 6,
+      "branch_name": "[test]MVNO only",
+      "staff_id": 11,
+      "admin_login_id": "okasako-takumi+203",
+      "realname": "",
+      "nickname": "QAテスト用203",
+      "branch_team_id": 18,
+      "team_name": "深夜",
+      "is_active": 1
+    },
+    {
+      "branch_id": 15,
+      "branch_name": "[test]MVNO, OLG",
+      "staff_id": 20,
+      "admin_login_id": "okasako-takumi+212",
+      "realname": "",
+      "nickname": "QAテスト用212",
+      "branch_team_id": 43,
+      "team_name": "昼",
+      "is_active": 1
+    },
+    {
+      "branch_id": 7,
+      "branch_name": "[test]OLG only",
+      "staff_id": 12,
+      "admin_login_id": "okasako-takumi+204",
+      "realname": "",
+      "nickname": "QAテスト用204",
+      "branch_team_id": 19,
+      "team_name": "昼",
+      "is_active": 1
+    },
+    {
+      "branch_id": 10,
+      "branch_name": "[test]pachi only",
+      "staff_id": 15,
+      "admin_login_id": "okasako-takumi+207",
+      "realname": "",
+      "nickname": "QAテスト用207",
+      "branch_team_id": 28,
+      "team_name": "昼",
+      "is_active": 1
+    },
+    {
+      "branch_id": 17,
+      "branch_name": "[test]pachi,ENG",
+      "staff_id": 22,
+      "admin_login_id": "okasako-takumi+214",
+      "realname": "",
+      "nickname": "QAテスト用214",
+      "branch_team_id": 51,
+      "team_name": "深夜",
+      "is_active": 1
+    },
+    {
+      "branch_id": 9,
+      "branch_name": "[test]Yahoo only",
+      "staff_id": 14,
+      "admin_login_id": "okasako-takumi+206",
+      "realname": "",
+      "nickname": "QAテスト用206",
+      "branch_team_id": 27,
+      "team_name": "深夜",
+      "is_active": 1
+    },
+    {
+      "branch_id": 14,
+      "branch_name": "[test]加賀,金沢",
+      "staff_id": 19,
+      "admin_login_id": "okasako-takumi+211",
+      "realname": "",
+      "nickname": "QAテスト用211",
+      "branch_team_id": 40,
+      "team_name": "昼",
+      "is_active": 1
+    },
+    {
+      "branch_id": 4,
+      "branch_name": "[test]加賀only",
+      "staff_id": 9,
+      "admin_login_id": "okasako-takumi+201",
+      "realname": "",
+      "nickname": "QAテスト用201",
+      "branch_team_id": 10,
+      "team_name": "昼",
+      "is_active": 1
+    },
+    {
+      "branch_id": 5,
+      "branch_name": "[test]金沢only",
+      "staff_id": 10,
+      "admin_login_id": "okasako-takumi+202",
+      "realname": "",
+      "nickname": "QAテスト用202",
+      "branch_team_id": 15,
+      "team_name": "深夜",
+      "is_active": 1
+    },
+    {
+      "branch_id": 3,
+      "branch_name": "オーバーライド",
+      "staff_id": null,
+      "admin_login_id": null,
+      "realname": null,
+      "nickname": null,
+      "branch_team_id": null,
+      "team_name": null,
+      "is_active": null
+    },
+    {
+      "branch_id": 1,
+      "branch_name": "加賀",
+      "staff_id": 1,
+      "admin_login_id": "mente",
+      "realname": "",
+      "nickname": "mente メンテナンス専用",
+      "branch_team_id": 1,
+      "team_name": "昼",
+      "is_active": 1
+    },
+    {
+      "branch_id": 1,
+      "branch_name": "加賀",
+      "staff_id": 2,
+      "admin_login_id": "okasako-takumi+202",
+      "realname": "",
+      "nickname": "okasako-takumi+202 QAテスト用202",
+      "branch_team_id": 1,
+      "team_name": "昼",
+      "is_active": 1
+    },
+    {
+      "branch_id": 2,
+      "branch_name": "金沢",
+      "staff_id": 3,
+      "admin_login_id": "test_id_0",
+      "realname": "",
+      "nickname": "田中一郎",
+      "branch_team_id": 4,
+      "team_name": "昼",
+      "is_active": 1
+    },
+    {
+      "branch_id": 2,
+      "branch_name": "金沢",
+      "staff_id": 4,
+      "admin_login_id": "test_id_1",
+      "realname": "",
+      "nickname": "山本次郎",
+      "branch_team_id": 5,
+      "team_name": "夜",
+      "is_active": 1
+    },
+    {
+      "branch_id": 2,
+      "branch_name": "金沢",
+      "staff_id": 5,
+      "admin_login_id": "test_id_2",
+      "realname": "",
+      "nickname": "鈴木花子",
+      "branch_team_id": 5,
+      "team_name": "夜",
+      "is_active": 1
+    },
+    {
+      "branch_id": 2,
+      "branch_name": "金沢",
+      "staff_id": 6,
+      "admin_login_id": "test_id_3",
+      "realname": "",
+      "nickname": "運営テスト",
+      "branch_team_id": 4,
+      "team_name": "昼",
+      "is_active": 1
+    },
+    {
+      "branch_id": 2,
+      "branch_name": "金沢",
+      "staff_id": 7,
+      "admin_login_id": "test_id_4",
+      "realname": "",
+      "nickname": "ORテスト",
+      "branch_team_id": 6,
+      "team_name": "深夜",
+      "is_active": 1
+    },
+    {
+      "branch_id": 2,
+      "branch_name": "金沢",
+      "staff_id": 8,
+      "admin_login_id": "test_id_5",
+      "realname": "",
+      "nickname": "QAテスト",
+      "branch_team_id": 6,
+      "team_name": "深夜",
+      "is_active": 1
+    }
+  ],
+  "loggedInInfo": [
+    {
+      "id": 1,
+      "dmm_admin_user_id": 255,
+      "dmm_admin_user_name": "メンテナンス専用",
+      "admin_login_id": "mente",
+      "emailadd": "mente@example.com",
+      "realname": "",
+      "nickname": "mente メンテナンス専用",
+      "branch_id": 1,
+      "branch_team_id": 1,
+      "is_active": 1,
+      "created_at": "2017-06-09 19:16:57",
+      "updated_at": "2017-06-14 10:23:00",
+      "deleted_at": null
+    }
+  ],
+  "branch_teams": [
+    {
+      "1": {
+        "details": {
+          "branch_name": "加賀"
+        },
+        "teams": {
+          "1": {
+            "team": "昼"
+          },
+          "2": {
+            "team": "夜"
+          },
+          "3": {
+            "team": "深夜"
+          }
+        }
+      },
+      "2": {
+        "details": {
+          "branch_name": "金沢"
+        },
+        "teams": {
+          "4": {
+            "team": "昼"
+          },
+          "5": {
+            "team": "夜"
+          },
+          "6": {
+            "team": "深夜"
+          }
+        }
+      },
+      "3": {
+        "details": {
+          "branch_name": "オーバーライド"
+        },
+        "teams": {
+          "7": {
+            "team": "昼"
+          },
+          "8": {
+            "team": "夜"
+          },
+          "9": {
+            "team": "深夜"
+          }
+        }
+      },
+      "4": {
+        "details": {
+          "branch_name": "[test]加賀only"
+        },
+        "teams": {
+          "10": {
+            "team": "昼"
+          },
+          "11": {
+            "team": "夜"
+          },
+          "12": {
+            "team": "深夜"
+          }
+        }
+      },
+      "5": {
+        "details": {
+          "branch_name": "[test]金沢only"
+        },
+        "teams": {
+          "13": {
+            "team": "昼"
+          },
+          "14": {
+            "team": "夜"
+          },
+          "15": {
+            "team": "深夜"
+          }
+        }
+      },
+      "6": {
+        "details": {
+          "branch_name": "[test]MVNO only"
+        },
+        "teams": {
+          "16": {
+            "team": "昼"
+          },
+          "17": {
+            "team": "夜"
+          },
+          "18": {
+            "team": "深夜"
+          }
+        }
+      },
+      "7": {
+        "details": {
+          "branch_name": "[test]OLG only"
+        },
+        "teams": {
+          "19": {
+            "team": "昼"
+          },
+          "20": {
+            "team": "夜"
+          },
+          "21": {
+            "team": "深夜"
+          }
+        }
+      },
+      "8": {
+        "details": {
+          "branch_name": "[test]DMP only"
+        },
+        "teams": {
+          "22": {
+            "team": "昼"
+          },
+          "23": {
+            "team": "夜"
+          },
+          "24": {
+            "team": "深夜"
+          }
+        }
+      },
+      "9": {
+        "details": {
+          "branch_name": "[test]Yahoo only"
+        },
+        "teams": {
+          "25": {
+            "team": "昼"
+          },
+          "26": {
+            "team": "夜"
+          },
+          "27": {
+            "team": "深夜"
+          }
+        }
+      },
+      "10": {
+        "details": {
+          "branch_name": "[test]pachi only"
+        },
+        "teams": {
+          "28": {
+            "team": "昼"
+          },
+          "29": {
+            "team": "夜"
+          },
+          "30": {
+            "team": "深夜"
+          }
+        }
+      },
+      "11": {
+        "details": {
+          "branch_name": "[test]ENG only"
+        },
+        "teams": {
+          "31": {
+            "team": "昼"
+          },
+          "32": {
+            "team": "夜"
+          },
+          "33": {
+            "team": "深夜"
+          }
+        }
+      },
+      "12": {
+        "details": {
+          "branch_name": "[test]all okay"
+        },
+        "teams": {
+          "34": {
+            "team": "昼"
+          },
+          "35": {
+            "team": "夜"
+          },
+          "36": {
+            "team": "深夜"
+          }
+        }
+      },
+      "13": {
+        "details": {
+          "branch_name": "[test]all NG"
+        },
+        "teams": {
+          "37": {
+            "team": "昼"
+          },
+          "38": {
+            "team": "夜"
+          },
+          "39": {
+            "team": "深夜"
+          }
+        }
+      },
+      "14": {
+        "details": {
+          "branch_name": "[test]加賀,金沢"
+        },
+        "teams": {
+          "40": {
+            "team": "昼"
+          },
+          "41": {
+            "team": "夜"
+          },
+          "42": {
+            "team": "深夜"
+          }
+        }
+      },
+      "15": {
+        "details": {
+          "branch_name": "[test]MVNO, OLG"
+        },
+        "teams": {
+          "43": {
+            "team": "昼"
+          },
+          "44": {
+            "team": "夜"
+          },
+          "45": {
+            "team": "深夜"
+          }
+        }
+      },
+      "16": {
+        "details": {
+          "branch_name": "[test]DMP, yahoo"
+        },
+        "teams": {
+          "46": {
+            "team": "昼"
+          },
+          "47": {
+            "team": "夜"
+          },
+          "48": {
+            "team": "深夜"
+          }
+        }
+      },
+      "17": {
+        "details": {
+          "branch_name": "[test]pachi,ENG"
+        },
+        "teams": {
+          "49": {
+            "team": "昼"
+          },
+          "50": {
+            "team": "夜"
+          },
+          "51": {
+            "team": "深夜"
+          }
+        }
+      }
+    }
+  ],
+  "spam":{
+    "page_num": 1,
+    "total_rows": 35,
+    "total_pages": 1,
+    "rows": [
+      {
+      "id": 198,
+      "subject": null,
+      "from": "dasdasd@gmail.com",
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-13 19:52:10"
+      },
+      {
+      "id": 197,
+      "subject": "fjasdjfla",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-11 11:57:15"
+      },
+      {
+      "id": 196,
+      "subject": "sdfasdfas",
+      "from": "dsafsad@gmail.com",
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-11 11:56:21"
+      },
+      {
+      "id": 195,
+      "subject": "sdkjfa;lsdf",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-11 11:54:56"
+      },
+      {
+      "id": 194,
+      "subject": "fjasdfjla",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-11 11:53:12"
+      },
+      {
+      "id": 193,
+      "subject": "sfasfa;sd",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-11 11:52:54"
+      },
+      {
+      "id": 192,
+      "subject": "sjdfalks;",
+      "from": "fad@gmail.com",
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-11 11:32:54"
+      },
+      {
+      "id": 191,
+      "subject": "fsafjalfjl",
+      "from": "fasfas@gmail.com",
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-08 19:06:44"
+      },
+      {
+      "id": 190,
+      "subject": "hogehoge",
+      "from": "fas@gmail.com",
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-08 18:07:03"
+      },
+      {
+      "id": 189,
+      "subject": "fasldfasl",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-08 17:40:05"
+      },
+      {
+      "id": 187,
+      "subject": "dfじゃsdl；fじゃl；",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-08 17:29:53"
+      },
+      {
+      "id": 186,
+      "subject": "fjかsjfぁs；d",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-08 17:29:29"
+      },
+      {
+      "id": 185,
+      "subject": "fsdlfjaljfal",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-08 17:14:47"
+      },
+      {
+      "id": 184,
+      "subject": "fdsjfkasklfj;a",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-08 17:13:40"
+      },
+      {
+      "id": 183,
+      "subject": "dsfasfaklsdf",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-08 17:05:38"
+      },
+      {
+      "id": 182,
+      "subject": "djfa;lds",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-08 17:05:09"
+      },
+      {
+      "id": 181,
+      "subject": "ファslfk；あs：kdf",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-08 16:41:29"
+      },
+      {
+      "id": 180,
+      "subject": "ファksdhふぁ",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-08 16:40:55"
+      },
+      {
+      "id": 176,
+      "subject": "fskf:;as",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-08 14:55:45"
+      },
+      {
+      "id": 171,
+      "subject": "fsdjfal;sdjf;",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-08 14:50:43"
+      },
+      {
+      "id": 170,
+      "subject": "fdsfjさd；f",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-08 14:49:13"
+      },
+      {
+      "id": 164,
+      "subject": "fsdafjals;",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-08 14:02:05"
+      },
+      {
+      "id": 160,
+      "subject": "fklasdjfas;",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-08 13:46:06"
+      },
+      {
+      "id": 156,
+      "subject": "kdsf:sdl",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-08 13:40:19"
+      },
+      {
+      "id": 153,
+      "subject": "sdjfぁs；df",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-08 13:37:24"
+      },
+      {
+      "id": 151,
+      "subject": "テスト",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-08 13:33:56"
+      },
+      {
+      "id": 143,
+      "subject": "dfaslfnaks",
+      "from": "asdfn@gmail.com",
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-07 20:13:30"
+      },
+      {
+      "id": 142,
+      "subject": "dsfjalsjdl",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-07 20:13:04"
+      },
+      {
+      "id": 137,
+      "subject": "vzxjvlzxj",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-07 19:56:03"
+      },
+      {
+      "id": 134,
+      "subject": "fjsadfjal;",
+      "from": "fasfsa@gmail.com",
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-07 19:42:53"
+      },
+      {
+      "id": 119,
+      "subject": "afaksd;fak:sd",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-07 19:00:08"
+      },
+      {
+      "id": 111,
+      "subject": "dfkasdfkal;",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-07 18:42:30"
+      },
+      {
+      "id": 102,
+      "subject": "あsだskdls",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-07 17:51:10"
+      },
+      {
+      "id": 100,
+      "subject": "fdsjflさ",
+      "from": null,
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-07 17:49:56"
+      },
+      {
+      "id": 71,
+      "subject": "dsjfa;l",
+      "from": "fjksaljfklsa@gmail.com",
+      "created_by": "メンテナンス専用",
+      "created_at": "2017-12-06 21:06:41"
+      }
+    ]
+  },
+  "email": {
+    "id": 1,
+    "emailadd": "tester01@example.com",
+    "subject": "subject01",
+    "signature": "---------------------- DMM Signature --------------------- Assignee: ##assignee## 01 Lorem ipsum dolor sit amet 01 Lorem ipsum dolor sit amet ---------------------",
+    "subject_en": "DMM Support Center",
+    "signature_en": null
+  },
+  "inboxInquiry":{
+    "page_num": 1,
+    "total_rows": 38,
+    "total_pages": 1,
+    "rows": [
+    {
+      "customer_id": 13,
+      "customer_dmm_id": "D10000001",
+      "customer_email": "nakatani-koya@dmm.com",
+      "category_id": 40,
+      "category_name": "[test]お支払・会員情報",
+      "category_subject_id": null,
+      "category_subject_name": null,
+      "handling_staff_id": 3,
+      "handling_staff_dmm_admin_user_id": 1000,
+      "handling_staff_nickname": "田中一郎",
+      "inquiry_id": 1,
+      "inquiry_datetime": "2017-04-15 15:29:15",
+      "inquiry_subject": "ポイントが減っている",
+      "inquiry_status": "unhandled",
+      "inquiry_can_upload": 0,
+      "inquiry_source_type": "form",
+      "from_emailadd": null,
+      "first_inquiry_created_at": "2017-04-15 15:29:15",
+      "num_attachments": 0,
+      "has_memo": 0
+    },
+    {
+      "customer_id": 25,
+      "customer_dmm_id": "",
+      "customer_email": "takakuwa-ayaka+guest1@kcgrp.jp",
+      "category_id": 40,
+      "category_name": "[test]お支払・会員情報",
+      "category_subject_id": null,
+      "category_subject_name": null,
+      "handling_staff_id": 4,
+      "handling_staff_dmm_admin_user_id": 1001,
+      "handling_staff_nickname": "山本次郎",
+      "inquiry_id": 2,
+      "inquiry_datetime": "2017-04-20 14:14:15",
+      "inquiry_subject": "支払いをキャンセルできない",
+      "inquiry_status": "unhandled",
+      "inquiry_can_upload": 0,
+      "inquiry_source_type": "guest",
+      "from_emailadd": null,
+      "first_inquiry_created_at": "2017-04-20 14:14:15",
+      "num_attachments": 0,
+      "has_memo": 0
+    },
+    {
+      "customer_id": 25,
+      "customer_dmm_id": "",
+      "customer_email": "takakuwa-ayaka+guest1@kcgrp.jp",
+      "category_id": 42,
+      "category_name": "[test]OLG",
+      "category_subject_id": null,
+      "category_subject_name": null,
+      "handling_staff_id": null,
+      "handling_staff_dmm_admin_user_id": null,
+      "handling_staff_nickname": null,
+      "inquiry_id": 12,
+      "inquiry_datetime": "2017-04-24 17:00:00",
+      "inquiry_subject": "運営テスト用ゲスト1",
+      "inquiry_status": "unhandled",
+      "inquiry_can_upload": 0,
+      "inquiry_source_type": "email",
+      "from_emailadd": null,
+      "first_inquiry_created_at": "2017-04-20 14:14:15",
+      "num_attachments": 0,
+      "has_memo": 0
+    },
+    {
+      "customer_id": 25,
+      "customer_dmm_id": "",
+      "customer_email": "takakuwa-ayaka+guest1@kcgrp.jp",
+      "category_id": 42,
+      "category_name": "[test]OLG",
+      "category_subject_id": null,
+      "category_subject_name": null,
+      "handling_staff_id": 6,
+      "handling_staff_dmm_admin_user_id": 1003,
+      "handling_staff_nickname": "運営テスト",
+      "inquiry_id": 13,
+      "inquiry_datetime": "2017-04-24 17:10:00",
+      "inquiry_subject": "運営テスト用ゲスト2",
+      "inquiry_status": "ongoing",
+      "inquiry_can_upload": 0,
+      "inquiry_source_type": "email",
+      "from_emailadd": null,
+      "first_inquiry_created_at": "2017-04-20 14:14:15",
+      "num_attachments": 0,
+      "has_memo": 0
+    },
+    {
+      "customer_id": 14,
+      "customer_dmm_id": "D10000002",
+      "customer_email": "takakuwa-ayaka+member1@kcgrp.jp",
+      "category_id": 44,
+      "category_name": "[test]通販",
+      "category_subject_id": null,
+      "category_subject_name": null,
+      "handling_staff_id": 5,
+      "handling_staff_dmm_admin_user_id": 1002,
+      "handling_staff_nickname": "鈴木花子",
+      "inquiry_id": 3,
+      "inquiry_datetime": "2017-04-20 18:34:24",
+      "inquiry_subject": "商品が行方不明",
+      "inquiry_status": "ongoing",
+      "inquiry_can_upload": 0,
+      "inquiry_source_type": "email",
+      "from_emailadd": null,
+      "first_inquiry_created_at": "2017-04-20 18:34:24",
+      "num_attachments": 0,
+      "has_memo": 0
+    },
+    {
+      "customer_id": 21,
+      "customer_dmm_id": "",
+      "customer_email": "DAEMON100@dmm.com",
+      "category_id": 42,
+      "category_name": "[test]OLG",
+      "category_subject_id": null,
+      "category_subject_name": null,
+      "handling_staff_id": null,
+      "handling_staff_dmm_admin_user_id": null,
+      "handling_staff_nickname": null,
+      "inquiry_id": 11,
+      "inquiry_datetime": "2017-04-24 17:00:00",
+      "inquiry_subject": "迷惑メールですよ",
+      "inquiry_status": "unhandled",
+      "inquiry_can_upload": 0,
+      "inquiry_source_type": "email",
+      "from_emailadd": null,
+      "first_inquiry_created_at": "2017-04-24 17:00:00",
+      "num_attachments": 0,
+      "has_memo": 0
+    },
+    {
+    "customer_id": 18,
+    "customer_dmm_id": "D10010003",
+    "customer_email": "oki-masami+memberdev1@kcgrp.jp",
+    "category_id": 42,
+    "category_name": "[test]OLG",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": 7,
+    "handling_staff_dmm_admin_user_id": 1004,
+    "handling_staff_nickname": "ORテスト",
+    "inquiry_id": 22,
+    "inquiry_datetime": "2017-04-24 17:00:00",
+    "inquiry_subject": "ORテスト用2",
+    "inquiry_status": "ongoing",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "email",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-24 17:00:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 18,
+    "customer_dmm_id": "D10010003",
+    "customer_email": "oki-masami+memberdev1@kcgrp.jp",
+    "category_id": 42,
+    "category_name": "[test]OLG",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": null,
+    "handling_staff_dmm_admin_user_id": null,
+    "handling_staff_nickname": null,
+    "inquiry_id": 21,
+    "inquiry_datetime": "2017-04-24 17:02:00",
+    "inquiry_subject": "ORテスト用1",
+    "inquiry_status": "unhandled",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "email",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-24 17:00:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 19,
+    "customer_dmm_id": "D10010004",
+    "customer_email": "oki-masami@kcgrp.jp",
+    "category_id": 42,
+    "category_name": "[test]OLG",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": null,
+    "handling_staff_dmm_admin_user_id": null,
+    "handling_staff_nickname": null,
+    "inquiry_id": 23,
+    "inquiry_datetime": "2017-04-24 17:00:00",
+    "inquiry_subject": "ORテスト用3",
+    "inquiry_status": "unhandled",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "form",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-24 17:00:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 19,
+    "customer_dmm_id": "D10010004",
+    "customer_email": "oki-masami@kcgrp.jp",
+    "category_id": 42,
+    "category_name": "[test]OLG",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": 7,
+    "handling_staff_dmm_admin_user_id": 1004,
+    "handling_staff_nickname": "ORテスト",
+    "inquiry_id": 24,
+    "inquiry_datetime": "2017-04-24 17:00:00",
+    "inquiry_subject": "ORテスト用4",
+    "inquiry_status": "ongoing",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "form",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-24 17:00:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 24,
+    "customer_dmm_id": "",
+    "customer_email": "oki-masami+guestdev1@kcgrp.jp",
+    "category_id": 42,
+    "category_name": "[test]OLG",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": null,
+    "handling_staff_dmm_admin_user_id": null,
+    "handling_staff_nickname": null,
+    "inquiry_id": 19,
+    "inquiry_datetime": "2017-04-24 17:01:00",
+    "inquiry_subject": "ORテスト用ゲスト1",
+    "inquiry_status": "unhandled",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "email",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-24 17:01:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 24,
+    "customer_dmm_id": "",
+    "customer_email": "oki-masami+guestdev1@kcgrp.jp",
+    "category_id": 42,
+    "category_name": "[test]OLG",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": 7,
+    "handling_staff_dmm_admin_user_id": 1004,
+    "handling_staff_nickname": "ORテスト",
+    "inquiry_id": 20,
+    "inquiry_datetime": "2017-04-24 17:20:00",
+    "inquiry_subject": "ORテスト用ゲスト2",
+    "inquiry_status": "ongoing",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "email",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-24 17:01:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 16,
+    "customer_dmm_id": "D10010001",
+    "customer_email": "yuki-hanabata+memberdev1@kcgrp.jp",
+    "category_id": 42,
+    "category_name": "[test]OLG",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": 6,
+    "handling_staff_dmm_admin_user_id": 1003,
+    "handling_staff_nickname": "運営テスト",
+    "inquiry_id": 15,
+    "inquiry_datetime": "2017-04-24 17:01:00",
+    "inquiry_subject": "運営テスト用2",
+    "inquiry_status": "ongoing",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "email",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-24 17:01:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 16,
+    "customer_dmm_id": "D10010001",
+    "customer_email": "yuki-hanabata+memberdev1@kcgrp.jp",
+    "category_id": 42,
+    "category_name": "[test]OLG",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": null,
+    "handling_staff_dmm_admin_user_id": null,
+    "handling_staff_nickname": null,
+    "inquiry_id": 14,
+    "inquiry_datetime": "2017-04-24 17:40:00",
+    "inquiry_subject": "運営テスト用1",
+    "inquiry_status": "unhandled",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "email",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-24 17:01:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 17,
+    "customer_dmm_id": "D10010002",
+    "customer_email": "hanabata-yuki@dmm.com",
+    "category_id": 42,
+    "category_name": "[test]OLG",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": 6,
+    "handling_staff_dmm_admin_user_id": 1003,
+    "handling_staff_nickname": "運営テスト",
+    "inquiry_id": 17,
+    "inquiry_datetime": "2017-04-24 17:03:00",
+    "inquiry_subject": "運営テスト用4",
+    "inquiry_status": "ongoing",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "form",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-24 17:03:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 17,
+    "customer_dmm_id": "D10010002",
+    "customer_email": "hanabata-yuki@dmm.com",
+    "category_id": 42,
+    "category_name": "[test]OLG",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": 6,
+    "handling_staff_dmm_admin_user_id": 1003,
+    "handling_staff_nickname": "運営テスト",
+    "inquiry_id": 18,
+    "inquiry_datetime": "2017-04-24 17:04:00",
+    "inquiry_subject": "運営テスト用5",
+    "inquiry_status": "ongoing",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "form",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-24 17:03:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 17,
+    "customer_dmm_id": "D10010002",
+    "customer_email": "hanabata-yuki@dmm.com",
+    "category_id": 42,
+    "category_name": "[test]OLG",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": null,
+    "handling_staff_dmm_admin_user_id": null,
+    "handling_staff_nickname": null,
+    "inquiry_id": 16,
+    "inquiry_datetime": "2017-04-24 17:11:00",
+    "inquiry_subject": "運営テスト用3",
+    "inquiry_status": "unhandled",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "form",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-24 17:03:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 20,
+    "customer_dmm_id": "D10010004",
+    "customer_email": "oki-m@override.co.jp",
+    "category_id": 42,
+    "category_name": "[test]OLG",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": 7,
+    "handling_staff_dmm_admin_user_id": 1004,
+    "handling_staff_nickname": "ORテスト",
+    "inquiry_id": 25,
+    "inquiry_datetime": "2017-04-24 17:25:00",
+    "inquiry_subject": "ORテスト用5",
+    "inquiry_status": "ongoing",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "form",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-24 17:25:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 15,
+    "customer_dmm_id": "D10000003",
+    "customer_email": "takakuwa-ayaka@dmm.com",
+    "category_id": 41,
+    "category_name": "[test]ビットコイン",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": null,
+    "handling_staff_dmm_admin_user_id": null,
+    "handling_staff_nickname": null,
+    "inquiry_id": 4,
+    "inquiry_datetime": "2017-04-25 10:00:00",
+    "inquiry_subject": "ビットコインの使い方1",
+    "inquiry_status": "unhandled",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "form",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-25 10:00:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 15,
+    "customer_dmm_id": "D10000003",
+    "customer_email": "takakuwa-ayaka@dmm.com",
+    "category_id": 41,
+    "category_name": "[test]ビットコイン",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": null,
+    "handling_staff_dmm_admin_user_id": null,
+    "handling_staff_nickname": null,
+    "inquiry_id": 5,
+    "inquiry_datetime": "2017-04-25 10:02:00",
+    "inquiry_subject": "ビットコインの使い方2",
+    "inquiry_status": "unhandled",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "form",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-25 10:00:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 15,
+    "customer_dmm_id": "D10000003",
+    "customer_email": "takakuwa-ayaka@dmm.com",
+    "category_id": 41,
+    "category_name": "[test]ビットコイン",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": null,
+    "handling_staff_dmm_admin_user_id": null,
+    "handling_staff_nickname": null,
+    "inquiry_id": 6,
+    "inquiry_datetime": "2017-04-25 10:03:00",
+    "inquiry_subject": "ビットコインの使い方3",
+    "inquiry_status": "unhandled",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "email",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-25 10:00:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 15,
+    "customer_dmm_id": "D10000003",
+    "customer_email": "takakuwa-ayaka@dmm.com",
+    "category_id": 43,
+    "category_name": "[test]動画",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": null,
+    "handling_staff_dmm_admin_user_id": null,
+    "handling_staff_nickname": null,
+    "inquiry_id": 7,
+    "inquiry_datetime": "2017-04-25 10:04:00",
+    "inquiry_subject": "ビットコインはもういいので、動画の話",
+    "inquiry_status": "unhandled",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "email",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-25 10:00:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 26,
+    "customer_dmm_id": "",
+    "customer_email": "takakuwa-ayaka+guest2@kcgrp.jp",
+    "category_id": null,
+    "category_name": null,
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": null,
+    "handling_staff_dmm_admin_user_id": null,
+    "handling_staff_nickname": null,
+    "inquiry_id": 8,
+    "inquiry_datetime": "2017-04-25 10:10:00",
+    "inquiry_subject": "はじめて利用します",
+    "inquiry_status": "unhandled",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "email",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-25 10:10:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 23,
+    "customer_dmm_id": "",
+    "customer_email": "meiwaku@dmm.com",
+    "category_id": null,
+    "category_name": null,
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": null,
+    "handling_staff_dmm_admin_user_id": null,
+    "handling_staff_nickname": null,
+    "inquiry_id": 9,
+    "inquiry_datetime": "2017-04-25 11:00:00",
+    "inquiry_subject": "【迷惑メール】稼げます【想定】",
+    "inquiry_status": "unhandled",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "email",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-25 11:00:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 22,
+    "customer_dmm_id": "",
+    "customer_email": "DAEMON@dmm.com",
+    "category_id": 42,
+    "category_name": "[test]OLG",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": null,
+    "handling_staff_dmm_admin_user_id": null,
+    "handling_staff_nickname": null,
+    "inquiry_id": 10,
+    "inquiry_datetime": "2017-04-25 11:30:00",
+    "inquiry_subject": "迷惑メールですよ",
+    "inquiry_status": "unhandled",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "email",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-25 11:30:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 11,
+    "customer_dmm_id": "D10020008",
+    "customer_email": "okasako-takumi+006@kcgrp.jp",
+    "category_id": 43,
+    "category_name": "[test]動画",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": 8,
+    "handling_staff_dmm_admin_user_id": 1005,
+    "handling_staff_nickname": "QAテスト",
+    "inquiry_id": 42,
+    "inquiry_datetime": "2017-04-26 15:00:00",
+    "inquiry_subject": "OAテスト用17",
+    "inquiry_status": "ongoing",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "email",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-26 15:00:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 10,
+    "customer_dmm_id": "D10020007",
+    "customer_email": "okasako-takumi+006@kcgrp.jp",
+    "category_id": null,
+    "category_name": null,
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": 9,
+    "handling_staff_dmm_admin_user_id": 1006,
+    "handling_staff_nickname": "QAテスト用201",
+    "inquiry_id": 41,
+    "inquiry_datetime": "2017-04-26 17:00:00",
+    "inquiry_subject": "OAテスト用15",
+    "inquiry_status": "unhandled",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "email",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-26 15:00:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 9,
+    "customer_dmm_id": "",
+    "customer_email": "okasako-takumi+005@kcgrp.jp",
+    "category_id": 43,
+    "category_name": "[test]動画",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": 8,
+    "handling_staff_dmm_admin_user_id": 1005,
+    "handling_staff_nickname": "QAテスト",
+    "inquiry_id": 39,
+    "inquiry_datetime": "2017-04-26 16:00:00",
+    "inquiry_subject": "OAテスト用14",
+    "inquiry_status": "ongoing",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "guest",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-26 16:00:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 9,
+    "customer_dmm_id": "",
+    "customer_email": "okasako-takumi+005@kcgrp.jp",
+    "category_id": null,
+    "category_name": null,
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": null,
+    "handling_staff_dmm_admin_user_id": null,
+    "handling_staff_nickname": null,
+    "inquiry_id": 38,
+    "inquiry_datetime": "2017-04-26 18:00:00",
+    "inquiry_subject": "OAテスト用13",
+    "inquiry_status": "unhandled",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "guest",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-26 16:00:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 7,
+    "customer_dmm_id": "D10020005",
+    "customer_email": "okasako-takumi+004@kcgrp.jp",
+    "category_id": 43,
+    "category_name": "[test]動画",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": 8,
+    "handling_staff_dmm_admin_user_id": 1005,
+    "handling_staff_nickname": "QAテスト",
+    "inquiry_id": 36,
+    "inquiry_datetime": "2017-04-26 17:00:00",
+    "inquiry_subject": "OAテスト用11",
+    "inquiry_status": "ongoing",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "email",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-26 17:00:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 6,
+    "customer_dmm_id": "D10020004",
+    "customer_email": "okasako-takumi+004@kcgrp.jp",
+    "category_id": null,
+    "category_name": null,
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": null,
+    "handling_staff_dmm_admin_user_id": null,
+    "handling_staff_nickname": null,
+    "inquiry_id": 35,
+    "inquiry_datetime": "2017-04-26 19:00:00",
+    "inquiry_subject": "OAテスト用10",
+    "inquiry_status": "unhandled",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "email",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-26 17:00:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 5,
+    "customer_dmm_id": "",
+    "customer_email": "okasako-takumi+003@kcgrp.jp",
+    "category_id": 43,
+    "category_name": "[test]動画",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": 8,
+    "handling_staff_dmm_admin_user_id": 1005,
+    "handling_staff_nickname": "QAテスト",
+    "inquiry_id": 33,
+    "inquiry_datetime": "2017-04-26 19:00:00",
+    "inquiry_subject": "OAテスト用08",
+    "inquiry_status": "ongoing",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "guest",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-26 19:00:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 5,
+    "customer_dmm_id": "",
+    "customer_email": "okasako-takumi+003@kcgrp.jp",
+    "category_id": null,
+    "category_name": null,
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": null,
+    "handling_staff_dmm_admin_user_id": null,
+    "handling_staff_nickname": null,
+    "inquiry_id": 32,
+    "inquiry_datetime": "2017-04-26 21:00:00",
+    "inquiry_subject": "OAテスト用07",
+    "inquiry_status": "unhandled",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "guest",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-26 19:00:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 3,
+    "customer_dmm_id": "D10020002",
+    "customer_email": "okasako-takumi+002@kcgrp.jp",
+    "category_id": 43,
+    "category_name": "[test]動画",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": 8,
+    "handling_staff_dmm_admin_user_id": 1005,
+    "handling_staff_nickname": "QAテスト",
+    "inquiry_id": 30,
+    "inquiry_datetime": "2017-04-26 20:00:00",
+    "inquiry_subject": "OAテスト用05",
+    "inquiry_status": "ongoing",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "email",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-26 20:00:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 2,
+    "customer_dmm_id": "D10020001",
+    "customer_email": "okasako-takumi+002@kcgrp.jp",
+    "category_id": null,
+    "category_name": null,
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": null,
+    "handling_staff_dmm_admin_user_id": null,
+    "handling_staff_nickname": null,
+    "inquiry_id": 29,
+    "inquiry_datetime": "2017-04-26 22:00:00",
+    "inquiry_subject": "OAテスト用04",
+    "inquiry_status": "unhandled",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "email",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-26 20:00:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 1,
+    "customer_dmm_id": "",
+    "customer_email": "okasako-takumi+001@kcgrp.jp",
+    "category_id": 43,
+    "category_name": "[test]動画",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": 8,
+    "handling_staff_dmm_admin_user_id": 1005,
+    "handling_staff_nickname": "QAテスト",
+    "inquiry_id": 27,
+    "inquiry_datetime": "2017-04-26 21:00:00",
+    "inquiry_subject": "OAテスト用02",
+    "inquiry_status": "ongoing",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "email",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-26 21:00:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 1,
+    "customer_dmm_id": "",
+    "customer_email": "okasako-takumi+001@kcgrp.jp",
+    "category_id": null,
+    "category_name": null,
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": null,
+    "handling_staff_dmm_admin_user_id": null,
+    "handling_staff_nickname": null,
+    "inquiry_id": 26,
+    "inquiry_datetime": "2017-04-26 23:00:00",
+    "inquiry_subject": "OAテスト用01",
+    "inquiry_status": "unhandled",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "email",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-04-26 21:00:00",
+    "num_attachments": 0,
+    "has_memo": 0
+    },
+    {
+    "customer_id": 28,
+    "customer_dmm_id": "D100ctixliwx",
+    "customer_email": "kohara-shinji@dooga.co.jp",
+    "category_id": 44,
+    "category_name": "[test]通販",
+    "category_subject_id": null,
+    "category_subject_name": null,
+    "handling_staff_id": null,
+    "handling_staff_dmm_admin_user_id": null,
+    "handling_staff_nickname": null,
+    "inquiry_id": 44,
+    "inquiry_datetime": "2017-11-17 15:15:19",
+    "inquiry_subject": "test desuyo",
+    "inquiry_status": "unhandled",
+    "inquiry_can_upload": 0,
+    "inquiry_source_type": "form",
+    "from_emailadd": null,
+    "first_inquiry_created_at": "2017-11-17 15:15:19",
+    "num_attachments": 0,
+    "has_memo": 0
+    }
+    ]
+  }
+}
