@@ -211,27 +211,28 @@ const mutations = {
 
 const actions = {
   // 初期のブロック条件リストを取得
-  fetchSpamList: ({ commit, state: { mutation } }) =>
-  axios.get(`http://localhost:3000/spam?_page=${mutation.currentPage}&_limit=${initPagination.pageSize}`)
-  .then(response => {
-    // 追加日の表示を/yyyy/mm/ddに変換
-    for(let i = 0; i < response.data.rows.length; i++) {
-      let convertAddDay = response.data.rows[i].created_at.split(/ /g, 1).join("").replace(/-/g, "/");
-      Object.assign(response.data.rows[i], {created_at:convertAddDay});
+  fetchSpamList: async ({ commit, state: { mutation } }) => {
+    try {
+      const response = await axios.get(`http://localhost:3000/spam?_page=${mutation.currentPage}&_limit=${initPagination.pageSize}`)
+        // 追加日の表示を/yyyy/mm/ddに変換
+        for(let i = 0; i < response.data.rows.length; i++) {
+          let convertAddDay = response.data.rows[i].created_at.split(/ /g, 1).join("").replace(/-/g, "/");
+          Object.assign(response.data.rows[i], {created_at:convertAddDay});
+        }
+        commit('setSpamList', {data: response.data.rows});
+        commit('setTotalNum', {data: response.data.total_rows});
     }
-    commit('setSpamList', {data: response.data.rows});
-    commit('setTotalNum', {data: response.data.total_rows});
-  })
-  .catch(error => {
-    Message({
-      message: `ブロック条件が取得できませんでした ${error}`,
-      type: 'error',
-      duration: 3000
-    })
-    throw error;
-  }),
+    catch(e) {
+      Message({
+        message: `ブロック条件が取得できませんでした ${error}`,
+        type: 'error',
+        duration: 3000
+      })
+      throw error;
+    }
+  },
   // 新規ブロック条件の投稿
-  submitNewSpamRule: ({ commit, state: { mutation } }) => axios.post('/admin/api/spam/', {...mutation.newSpamRule})
+  submitNewSpamRule: ({ commit, state: { mutation } }) => axios.post('http://localhost:3000/spam', {...mutation.newSpamRule})
   .then(response => {
     let convertAddDay = response.data.created_at.split(/ /g, 1).join("").replace(/-/g, "/");
     Object.assign(response.data, {created_at:convertAddDay});
