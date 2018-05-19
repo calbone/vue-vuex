@@ -7,7 +7,6 @@
 
 <script>
 import Vue from 'vue';
-import axios from 'axios';
 import { Menu, Submenu, MenuItem, MenuItemGroup } from 'element-ui';
 
 Vue.use(Menu);
@@ -16,23 +15,7 @@ Vue.use(MenuItem);
 Vue.use(MenuItemGroup);
 
 export default {
-  name: 'nav-link',
-    methods: {
-    getLoggedInInfo() {
-      let self = this;
-      axios.get(`/api/staff/loggedInInfo`)
-        .then(response => {
-          self.$store.commit('mutateSetLoggedInInfo', {
-            loggedInInfo: response.data
-          });
-          console.log('loggedInInfo', self.$store.state.loggedInInfo.data);
-        })
-        .catch(function (error) {
-          console.log(error);
-          throw error
-        });
-    },
-  },
+  name: 'NavLink',
 }
 </script>
 
