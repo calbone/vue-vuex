@@ -5,51 +5,20 @@
   "scripts": {
     "serve": "vue-cli-service serve --open",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint",
-    "data": "json-server --watch ./api/index.json",
-    "test": "jest"
+    "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "axios": "^0.18.0",
-    "element-ui": "^2.3.8",
-    "vue": "^2.5.16",
-    "vue-router": "^3.0.1",
-    "vuex": "^3.0.1"
+    "vue": "^2.5.16"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-beta.10",
     "@vue/cli-plugin-eslint": "^3.0.0-beta.10",
     "@vue/cli-service": "^3.0.0-beta.10",
-    "@vue/test-utils": "^1.0.0-beta.16",
-    "babel-jest": "^22.4.4",
-    "babel-plugin-component": "^1.1.1",
-    "css-loader": "^0.28.11",
-    "jest": "^22.4.4",
-    "json-server": "^0.12.2",
-    "node-sass": "^4.9.0",
-    "sass-loader": "^7.0.1",
-    "vue-jest": "^2.6.0",
     "vue-template-compiler": "^2.5.13"
   },
   "babel": {
     "presets": [
       "@vue/app"
-    ],
-    "env": {
-      "test": {
-        "presets": [
-          ["env", { "targets": { "node": "current" }}]
-        ]
-      }
-    },
-    "plugins": [
-      [
-        "component",
-        {
-          "libraryName": "element-ui",
-          "styleLibraryName": "theme-chalk"
-        }
-      ]
     ]
   },
   "eslintConfig": {
