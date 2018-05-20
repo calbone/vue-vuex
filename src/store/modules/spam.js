@@ -222,7 +222,7 @@ const actions = {
         commit('setSpamList', {data: response.data.rows});
         commit('setTotalNum', {data: response.data.total_rows});
     }
-    catch(e) {
+    catch(error) {
       Message({
         message: `ブロック条件が取得できませんでした ${error}`,
         type: 'error',
