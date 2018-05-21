@@ -16,7 +16,7 @@ Product start
 yarn serve
 ```
 
-## Mock server With
+Mock server With
 
 ```
 yarn mock
@@ -53,8 +53,3 @@ Add additional notes about how to deploy this on a live system
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-
-# vue-vuex
-
-vue + vuex + vue-router + json-server
