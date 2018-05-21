@@ -19,7 +19,7 @@ yarn serve
 ## Mock server With
 
 ```
-yarn data
+yarn mock
 ```
 
 ## Running the tests
