@@ -15,7 +15,6 @@ Vue.use(ElementUI, {locale});
 Vue.config.productionTip = false;
 
 const config = {
-
 }
 
 firebase.initializeApp(config);
