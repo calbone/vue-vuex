@@ -14,6 +14,12 @@ Vue.use(ElementUI, {locale});
 
 Vue.config.productionTip = false;
 
+const config = {
+
+}
+
+firebase.initializeApp(config);
+
 const router = new VueRouter(routes);
 
 new Vue({
