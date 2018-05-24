@@ -6,6 +6,7 @@ import App from './App.vue';
 import store from './store';
 import VueRouter from 'vue-router';
 import routes from './routes';
+import firebase from 'firebase';
 
 Vue.use(VueRouter);
 Vue.use(ElementUI, {locale});

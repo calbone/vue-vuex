@@ -1,5 +1,5 @@
-import Signin from '@/components/login/Signin';
-// import Signup from '@/components/login/signup';
+// import Signin from '@/components/login/Signin';
+import Signup from '@/components/login/Signup';
 import Spam from '@/components/admin/spam';
 
 export default {
@@ -9,7 +9,7 @@ export default {
       path: '/', component: Spam, name: 'Spam'
     },
     {
-      path: '/signin', component: Signin, name: 'Signin'
+      path: '/signup', component: Signup, name: 'Signup'
     },
   ]
 }
