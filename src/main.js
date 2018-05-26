@@ -7,6 +7,7 @@ import store from './store';
 import VueRouter from 'vue-router';
 import routes from './routes';
 import firebase from 'firebase';
+import { firebaseConfig } from '../firebaseConfig';
 
 Vue.use(VueRouter);
 Vue.use(ElementUI, {locale});
@@ -14,11 +15,8 @@ Vue.use(ElementUI, {locale});
 
 Vue.config.productionTip = false;
 
-const config = {
 
-}
-
-firebase.initializeApp(config);
+firebase.initializeApp(firebaseConfig);
 
 const router = new VueRouter(routes);
 
