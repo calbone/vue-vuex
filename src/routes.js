@@ -1,5 +1,5 @@
-// import Signin from '@/components/login/Signin';
 import Signup from '@/components/login/Signup';
+import Signin from '@/components/login/Signin';
 import Spam from '@/components/admin/spam';
 
 export default {
@@ -10,6 +10,9 @@ export default {
     },
     {
       path: '/signup', component: Signup, name: 'Signup'
+    },
+    {
+      path: '/signin', component: Signin, name: 'Signin'
     },
   ]
 }

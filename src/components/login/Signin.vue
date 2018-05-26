@@ -1,13 +1,12 @@
 <template>
-    <div class="signup">
-        <img src="../../assets/logo.png">
-        <h1 class="signup__title">Sign up</h1>
-        <div class="signup__input">
-            <el-input placeholder="Username" size="medium" v-model="username"></el-input>
-            <el-input placeholder="Password" size="medium" v-model="password"></el-input>
-            <el-button @click="signUp">Register</el-button>
-        </div>
-        <router-link to="/signin">Sign in</router-link>
+    <div class="signin">
+      <img src="../../assets/logo.png">
+      <h1 class="signin__title">Sign in</h1>
+      <div class="signin__input">
+          <el-input placeholder="Username" size="medium" v-model="username"></el-input>
+          <el-input placeholder="Password" size="medium" v-model="password"></el-input>
+          <el-button @click="signIn">sign in</el-button>
+      </div>
     </div>
 </template>
 
@@ -19,7 +18,7 @@ Vue.use(Input);
 Vue.use(Button);
 
 export default {
-  name: 'Signup',
+  name: 'Signin',
   data() {
     return {
       username: '',
@@ -27,11 +26,13 @@ export default {
     }
   },
   methods: {
-    signUp() {
-      firebase.auth().createUserWithEmailAndPassword(this.username, this.password)
+    signIn() {
+      firebase.auth().signInWithEmailAndPassword(this.username, this.password)
       .then(user => {
-        alert('Create account: ', user.email);
-        this.$router.push('/signin');
+        if(user) {
+          alert('Success!');
+          this.$router.push('/');
+        }
       })
       .catch(error => {
         alert(error.message)
@@ -42,8 +43,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-
-.signup {
+.signin {
     text-align: center;
     color: #2c3e50;
     margin-top: 60px;
@@ -59,7 +59,6 @@ export default {
         display: flex;
         flex-direction: column;
         align-items: center;
-        margin-bottom: 20px;
         .el-input {
             width: 200px;
             margin-bottom: 20px;

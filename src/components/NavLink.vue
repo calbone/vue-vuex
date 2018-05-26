@@ -1,7 +1,8 @@
 <template>
   <nav class="gnav">
-    <el-menu theme="dark" class="el-menu-demo" mode="horizontal">
-    </el-menu>
+      <el-menu theme="dark" class="el-menu-demo" mode="horizontal">
+          <el-menu-item><a href="/">Sign out</a></el-menu-item>
+      </el-menu>
   </nav>
 </template>
 
@@ -21,20 +22,23 @@ export default {
 
 <style lang="scss">
 .gnav {
-  background: #324057;
   color: #c0ccda;
   height: 60px;
   width: 100%;
   min-width: 650px;
+  .el-menu {
+      background: #324057;
+  }
 
   .el-menu-item {
     padding: 0;
 
     & > a {
-      display: block;
-      height: 60px;
-      line-height: 60px;
-      padding: 0 20px;
+        display: block;
+        height: 60px;
+        line-height: 60px;
+        padding: 0 20px;
+        color: #00bcd4;
     }
   }
 
