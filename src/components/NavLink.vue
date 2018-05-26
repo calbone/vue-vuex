@@ -1,7 +1,7 @@
 <template>
   <nav class="gnav">
       <el-menu theme="dark" class="el-menu-demo" mode="horizontal">
-          <el-menu-item><a href="/">Sign out</a></el-menu-item>
+          <el-menu-item><a @click.prevent="signOut">Sign out</a></el-menu-item>
       </el-menu>
   </nav>
 </template>
@@ -9,6 +9,7 @@
 <script>
 import Vue from 'vue';
 import { Menu, Submenu, MenuItem, MenuItemGroup } from 'element-ui';
+import firebase from 'firebase';
 
 Vue.use(Menu);
 Vue.use(Submenu);
@@ -17,6 +18,13 @@ Vue.use(MenuItemGroup);
 
 export default {
   name: 'NavLink',
+  methods: {
+    signOut() {
+      firebase.auth().signOut().then(() => {
+        this.$router.push('/signin')
+      })
+    }
+  }
 }
 </script>
 
