@@ -6,6 +6,7 @@
           <el-input placeholder="Username" size="medium" v-model="username"></el-input>
           <el-input placeholder="Password" size="medium" v-model="password"></el-input>
           <el-button @click="signIn">sign in</el-button>
+          <router-link to="/signup">Sign up</router-link>
       </div>
     </div>
 </template>
