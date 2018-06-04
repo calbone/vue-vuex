@@ -1,13 +1,13 @@
 <template>
     <div class="signin">
-      <img src="../../assets/logo.png">
-      <h1 class="signin__title">Sign in</h1>
-      <div class="signin__input">
+        <img src="../../assets/logo.png">
+        <h1 class="signin__title">Sign in</h1>
+        <div class="signin__input">
           <el-input placeholder="Username" size="medium" v-model="username"></el-input>
           <el-input placeholder="Password" size="medium" v-model="password"></el-input>
-          <el-button @click="signIn">sign in</el-button>
-          <router-link to="/signup">Sign up</router-link>
-      </div>
+          <el-button @click="signIn">Login</el-button>
+        </div>
+        <router-link to="/signup">Sign up</router-link>
     </div>
 </template>
 
@@ -60,6 +60,7 @@ export default {
         display: flex;
         flex-direction: column;
         align-items: center;
+        margin-bottom: 20px;
         .el-input {
             width: 200px;
             margin-bottom: 20px;

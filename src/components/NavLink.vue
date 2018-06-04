@@ -1,7 +1,7 @@
 <template>
   <nav class="gnav">
       <el-menu theme="dark" class="el-menu-demo" mode="horizontal">
-          <el-menu-item><a @click.prevent="signOut">Sign out</a></el-menu-item>
+          <el-menu-item index="1"><a @click.prevent="signOut">Sign out</a></el-menu-item>
       </el-menu>
   </nav>
 </template>

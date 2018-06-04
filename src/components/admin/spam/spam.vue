@@ -1,5 +1,7 @@
 <template>
   <div id="spamWrap">
+    <input type="text" v-model="input" />
+    <span @click="test">ボタン</span>
     <main class="spamListWrap">
       <table class="spamList">
         <thead>
@@ -100,6 +102,7 @@
 <script>
 import Vue from 'vue';
 import { mapGetters, mapMutations, mapActions } from 'vuex';
+import firebase from 'firebase';
 import { Input, Button, Tooltip, Pagination } from 'element-ui';
 
 Vue.use(Input);
@@ -109,6 +112,11 @@ Vue.use(Pagination);
 
 export default {
   name: 'spam',
+  data() {
+    return {
+      input: ''
+    }
+  },
   props: {
     spamList: Array,
     insertedSpamIdList: Array,
@@ -140,6 +148,15 @@ export default {
     isPagination(){return this.totalNum > this.pageSize}
   },
   methods: {
+    test() {
+      const db = firebase.database();
+      const messageRef = db.ref('/message');
+      messageRef.set({
+        nogizaka: {
+          member: this.input
+        }
+      });
+    },
     ...mapActions([
       'removeSpecifySpamRule',
       'fetchSpamList',
@@ -159,9 +176,9 @@ export default {
   },
   watch: {
     // currentPageの値が変更されたら発火する
-    pageTransfer(currentPage) {
-      this.fetchSpamList();
-    }
+    // pageTransfer(currentPage) {
+    //   this.fetchSpamList();
+    // }
   },
 }
 </script>
