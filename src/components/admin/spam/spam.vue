@@ -141,14 +141,6 @@ export default {
     isPagination(){return this.totalNum > this.pageSize}
   },
   methods: {
-    test() {
-      const db = firebase.database();
-      const messageRef = db.ref('/message');
-      messageRef.set({
-        nogizaka: {
-        }
-      });
-    },
     ...mapActions([
       'removeSpecifySpamRule',
       'fetchSpamList',
