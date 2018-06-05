@@ -1,7 +1,5 @@
 <template>
   <div id="spamWrap">
-    <input type="text" v-model="input" />
-    <span @click="test">ボタン</span>
     <main class="spamListWrap">
       <table class="spamList">
         <thead>
@@ -112,11 +110,6 @@ Vue.use(Pagination);
 
 export default {
   name: 'spam',
-  data() {
-    return {
-      input: ''
-    }
-  },
   props: {
     spamList: Array,
     insertedSpamIdList: Array,
