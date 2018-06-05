@@ -146,7 +146,6 @@ export default {
       const messageRef = db.ref('/message');
       messageRef.set({
         nogizaka: {
-          member: this.input
         }
       });
     },
