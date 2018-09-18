@@ -30,7 +30,7 @@ const initPagination = {
 // バリデーションチェックの初期化
 const validCheck = {
   inValid: false,
-}
+};
 
 const state = {
   mutation: {
@@ -213,7 +213,7 @@ const actions = {
   // 初期のブロック条件リストを取得
   fetchSpamList: async ({ commit, state: { mutation } }) => {
     try {
-      const response = await axios.get(`http://localhost:3000/spam?_page=${mutation.currentPage}&_limit=${initPagination.pageSize}`)
+      const response = await axios.get(`http://localhost:4000/spam?_page=${mutation.currentPage}&_limit=${initPagination.pageSize}`)
         // 追加日の表示を/yyyy/mm/ddに変換
         for(let i = 0; i < response.data.rows.length; i++) {
           let convertAddDay = response.data.rows[i].created_at.split(/ /g, 1).join("").replace(/-/g, "/");
