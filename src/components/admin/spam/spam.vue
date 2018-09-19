@@ -100,7 +100,6 @@
 <script>
 import Vue from 'vue';
 import { mapGetters, mapMutations, mapActions } from 'vuex';
-import firebase from 'firebase';
 import { Input, Button, Tooltip, Pagination } from 'element-ui';
 
 Vue.use(Input);
@@ -114,7 +113,6 @@ export default {
     spamList: Array,
     insertedSpamIdList: Array,
     newSpamRule: Object,
-    currentPage: Number,
     pageSize: Number,
     totalNum: Number,
     removeSpamRuleId: Number,
@@ -137,8 +135,15 @@ export default {
       set(val){this.inputRestrictAddress(val)}
     },
     isAdditionMode(){return this.additionInputMode || this.additionConfirmMode},
-    currentPageSpamList(){return (this.spamList.length > this.pageSize) ? this.spamList.slice(0, this.spamList.length - 1) : this.spamList},
+    currentPageSpamList: {
+      get(){return (this.currentPage > 1) ? this.spamList.slice(this.pageSize * this.currentPage - this.pageSize, this.pageSize * this.currentPage) : this.spamList.slice(0, this.pageSize)},
+    },
     isPagination(){return this.totalNum > this.pageSize}
+  },
+  data() {
+    return {
+      currentPage: 0
+    }
   },
   methods: {
     ...mapActions([
@@ -155,14 +160,10 @@ export default {
       'returnToInputMode',
       'confirmRemovalSpecifyRule',
       'cancelRemovalSpecifyRule',
-      'handleCurrentChange',
     ]),
-  },
-  watch: {
-    // currentPageの値が変更されたら発火する
-    // pageTransfer(currentPage) {
-    //   this.fetchSpamList();
-    // }
+    handleCurrentChange(val) {
+      this.currentPage = val;
+    }
   },
 }
 </script>
